@@ -1,0 +1,8 @@
+*fastq*
+*.gz
+*.swp
+*.log
+*.bbl
+*.aux
+*.DS_*tore
+*.idx

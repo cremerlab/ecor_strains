@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ecor
+Version: 0.0.1
+Author: Griffin Chure
+Author-email: griffinchure@gmail.com
+License: MIT
+Classifier: Development Status :: 1 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3

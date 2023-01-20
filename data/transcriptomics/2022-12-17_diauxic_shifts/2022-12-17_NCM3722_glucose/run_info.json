@@ -1,0 +1,13 @@
+{
+	"n_targets": 4736,
+	"n_bootstraps": 0,
+	"n_processed": 4085990,
+	"n_pseudoaligned": 3501699,
+	"n_unique": 3419677,
+	"p_pseudoaligned": 85.7,
+	"p_unique": 83.7,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Fri Jan 20 13:58:34 2023",
+	"call": "kallisto quant --plaintext -i ../Ecoli_K12_MG1655_kallisto.idx -o ./ ./2022-12-17_NCM3722_glucose_R1.fastq.gz ./2022-12-17_NCM3722_glucose_R2.fastq.gz"
+}
