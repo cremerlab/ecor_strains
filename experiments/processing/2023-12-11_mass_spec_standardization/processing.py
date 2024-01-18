@@ -3,15 +3,11 @@ import numpy as np
 import pandas as pd 
 
 standard = pd.read_csv('../../../data/compiled_mass_fractions.csv')
-standard = standard[#(standard['strain']=='NCM3722') & 
+standard = standard[(standard['strain']=='NCM3722') & 
                     (standard['growth_rate_hr'] >= 0.90) & 
                     (standard['growth_rate_hr'] <= 1.2)]
-
-#%%
-ref_cond = standard.groupby(['gene_name', 'b_number', 'cog_class', 'cog_letter', 'ribosomal', 'metabolism'])['mass_frac'].agg(('mean')).reset_index()
+ref_cond = standard.groupby(['gene_name', 'b_number', 'cog_class', 'cog_letter', 'go_terms'])['mass_frac'].agg(('mean')).reset_index()
 ref_cond
-
-#%%
 data = pd.read_csv('../../../data/relative_protein_abundances.csv')
 
 #%% 
@@ -33,7 +29,7 @@ growth_rates = {'ECOR2': {'glucose': 0.8861, 'acetate': 0.2738, 'strain':'ECOR02
                 'AC': {'glucose':0.7299, 'acetate': 0.2021, 'strain':'AC1'},
                 'NCM': {'glucose':0.9823, 'acetate':0.4069, 'strain':'NCM3722'}}
 #%%
-for g, d in ref_cond.groupby(['gene_name', 'b_number', 'cog_class', 'cog_letter']):
+for g, d in ref_cond.groupby(['gene_name', 'b_number', 'cog_class', 'cog_letter', 'go_terms']):
     ind = None
     for i, n in enumerate(names):
             if g[0].lower() in n:
@@ -51,22 +47,17 @@ for g, d in ref_cond.groupby(['gene_name', 'b_number', 'cog_class', 'cog_letter'
                 cond = 'acetate'
             else:
                 cond = 'glucose'
-            if d['ribosomal'].values[0]:
-                loc = 'ribosomal'
-            elif d['metabolism'].values[0]:
-                 loc = 'metabolic'
-            else:
-                 loc = 'other'
+  
             df = pd.DataFrame({'gene_name': g[0],
                                'b_number': g[1],
                                'cog_letter': g[3],
                                'cog_class': g[2],
+                               'GO_terms': d['go_terms'].values[0],
                                'relative_conc': _df[c] / ref_col[ind],
                                'ref_mass_frac': d['mass_frac'].values[0],
                                'strain': growth_rates[c.split('_')[2]]['strain'],
                                'growth_rate': growth_rates[c.split('_')[2]][cond],
-                               'carbon_source': cond,
-                               'sector': loc}, index =[0]) 
+                               'carbon_source': cond}, index =[0]) 
             mapped = pd.concat([mapped, df], sort=False)
     else:
         err += 1
