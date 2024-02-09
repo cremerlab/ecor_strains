@@ -1,0 +1,13 @@
+Created: 2024-01-23 RP
+Last updated: 2024-01-23 RP
+
+
+Files include the basic input .csv containing annotated genes and sequences:
+'annotation_simplifiedDF.csv' (smaller file, contains gene data but no sequence)
+'good_annotationDF.csv' (large version, contains all sequences)
+
+Post-alignment outputs:
+AA_SeqIDTables 
+NT_SeqIDTables 
+These directories contains one file per strain, using the names strain as the reference. Within the .csv file, the table includes gene name, strain being compared to reference, length of the alignment, and the sequence identity (%) for the alignment. AA* contains the data for amino acid coding sequences, and NT* contains data for nucleotide coding sequences. 
+
