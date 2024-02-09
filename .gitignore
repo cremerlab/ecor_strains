@@ -6,3 +6,5 @@
 *.aux
 *.DS_*tore
 *.idx
+*good_annotationDF.csv
+*annotation_simplifiedDF.csv
