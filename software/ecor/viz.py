@@ -1,9 +1,5 @@
-import matplotlib.pyplot 
 import matplotlib
-import altair as alt
 import seaborn as sns
-import bokeh.io
-import bokeh.themes
 
 def get_colors(all_palettes=False):
     """
@@ -14,7 +10,7 @@ def get_colors(all_palettes=False):
     ----------
     all_palettes : bool
         If True, lists of `dark`, `primary`, and `light` palettes will be returned. If
-        False, only the `primary` palette will be returned. 
+        False, only the `primary` palette will be returned.
     """
     # Define the colors
     colors = {
@@ -47,8 +43,8 @@ def get_colors(all_palettes=False):
         'purple': '#5d4a7e',
         'primary_purple': '#8066ad',
         'light_purple': '#a897c5',
-        'pale_purple': '#c2b6d6' 
-        }
+        'pale_purple': '#c2b6d6'
+    }
 
     # Generate the sequential color palettes.
     keys = ['black', 'blue', 'green', 'red', 'purple', 'gold']
@@ -56,7 +52,7 @@ def get_colors(all_palettes=False):
     primary_palette = [colors[f'primary_{k}'] for k in keys]
     light_palette = [colors[f'light_{k}'] for k in keys]
 
-    # Determine what to return. 
+    # Determine what to return.
     if all_palettes:
         palette = [dark_palette, primary_palette, light_palette]
     else:
@@ -65,11 +61,10 @@ def get_colors(all_palettes=False):
     return [colors, palette]
 
 
-
 def matplotlib_style(return_colors=True, return_palette=True, **kwargs):
     """
-    Assigns the plotting style for matplotlib generated figures. 
-    
+    Assigns the plotting style for matplotlib generated figures.
+
     Parameters
     ----------
     return_colors : bool
@@ -81,7 +76,7 @@ def matplotlib_style(return_colors=True, return_palette=True, **kwargs):
     rc = {
         # Axes formatting
         "axes.facecolor": "#f0f3f7",
-        "axes.edgecolor": "#ffffff", #5b5b5b",
+        "axes.edgecolor": "#ffffff",  # 5b5b5b",
         "axes.labelcolor": "#5b5b5b",
         "axes.spines.right": False,
         "axes.spines.top": False,
@@ -91,17 +86,17 @@ def matplotlib_style(return_colors=True, return_palette=True, **kwargs):
         "axes.linewidth": 0.15,
         "axes.grid": True,
 
-        # Formatting of lines and points. 
+        # Formatting of lines and points.
         "lines.linewidth": 0.5,
         "lines.dash_capstyle": "butt",
         "patch.linewidth": 0.25,
-        "lines.markeredgecolor": '#ffffff',
+        "lines.markeredgecolor": '#f0f3f7',
         "lines.markeredgewidth": 0.5,
 
         # Grid formatting
         "grid.linestyle": '-',
-        "grid.linewidth": 0.75,
-        "grid.color": '#FFF',
+        "grid.linewidth": 0.5,
+        "grid.color": "#FFFFFF",
 
         # Title formatting
         "axes.titlesize": 8,
@@ -109,7 +104,7 @@ def matplotlib_style(return_colors=True, return_palette=True, **kwargs):
         "axes.titlepad": 3,
         "axes.titlelocation": "left",
 
-        # Axes label formatting. 
+        # Axes label formatting.
         "axes.labelpad": 0,
         "axes.labelweight": 700,
         "xaxis.labellocation": "center",
@@ -119,9 +114,9 @@ def matplotlib_style(return_colors=True, return_palette=True, **kwargs):
         "axes.ymargin": 0.03,
 
         # Legend formatting
-        "legend.fontsize": 8,
+        "legend.fontsize": 6,
         "legend.labelspacing": 0.25,
-        "legend.title_fontsize": 5,
+        "legend.title_fontsize": 6,
         "legend.frameon": True,
         "legend.edgecolor": "#5b5b5b",
 
@@ -141,10 +136,10 @@ def matplotlib_style(return_colors=True, return_palette=True, **kwargs):
 
         # General Font styling
         "font.family": "sans-serif",
-        "font.family": "Nunito",
-        "font.weight": 400, # Weight of all fonts unless overriden.
+        "font.family": "Lato",
+        "font.weight": 400,  # Weight of all fonts unless overriden.
         "font.style": "normal",
-        "text.color": "#5b5b5b",
+        "text.color": "#3d3d3d",  # "#5b5b5b",
 
         # Higher-order things
         "pdf.fonttype": 42,
@@ -157,7 +152,7 @@ def matplotlib_style(return_colors=True, return_palette=True, **kwargs):
     }
     matplotlib.style.use(rc)
 
-    # Load the colors and palettes. 
+    # Load the colors and palettes.
     colors, palette = get_colors(**kwargs)
     sns.set_palette(palette)
 
@@ -167,157 +162,8 @@ def matplotlib_style(return_colors=True, return_palette=True, **kwargs):
         out.append(colors)
     if return_palette == True:
         out.append(palette)
-    
+
     if len(out) == 1:
         return out[0]
     else:
         return out
-
-def altair_style(return_colors=True, return_palette=True, **kwargs):
-    """
-    Assigns the plotting style for matplotlib generated figures. 
-    
-    Parameters
-    ----------
-    return_colors : bool
-        If True, a dictionary of the colors is returned. Default is True.
-    return_palette: bool
-        If True, a sequential color palette is returned. Default is True.
-    """
-    colors, palette = get_colors(**kwargs)
-    if len(palette) == 3:
-        primary_palette = palette[2]
-    else:
-        primary_palette = palette
-    def _theme():
-        return {
-            'config': {
-                'background': 'white',
-                    'group': { 
-                    'fill': 'white', 
-                    },
-                'view': {
-                    'strokeWidth': 0,
-                    'height': 300,
-                    'width': 400,
-                    'fill': '#f0f3f7', #ebeef2', #f8f8fa'
-                    },
-                'point': {
-                    'size': 40,
-                    'filled': True,
-                    'opacity': 1,
-                    'strokeWidth': 0.75,
-                    'stroke': '#FFFFFF'
-                    },    
-                'square': {
-                    'size': 40,
-                    'filled': True,
-                    'opacity': 1,
-                    'strokeWidth': 0.75,
-                    'stroke': '#FFFFFF'
-                    },      
-                'circle': {
-                    'size': 40,
-                    'filled': True,
-                    'opacity': 1,
-                    'strokeWidth': 0.75,
-                    'stroke': '#FFFFFF'
-                    },  
-                'line': {
-                    'size': 2,
-                },
-                'axis': {
-                    'domainColor': '#ffffff', #5b5b5b',
-                    'domainWidth': 0.5,
-                    'labelColor': '#5b5b5b',
-                    'labelFontSize': 10,
-                    'labelFont': 'Arial',
-                    'titleFont': 'Arial',
-                    'titleFontWeight': 700,
-                    'titleFontSize':14,
-                    'titleColor': '#4b4b4b',
-                    # 'titleAnchorX': 'end',
-                    'grid': True,
-                    'gridColor': '#ffffff', #c1c1c1',
-                    'gridWidth': 0.5,
-                    'ticks': False,
-                },
-                'range': {
-                    'category': primary_palette
-                },
-                'legend': {
-                    'labelFontSize': 14,
-                    'labelFont': 'Arial',
-                    'titleFont': 'Arial',
-                    'titleFontSize': 14,
-                    'titleFontWeight': 700,
-                    'titleFontColor': '#44b4b4b',
-                    'symbolSize': 75,
-                },
-                'title' : { 
-                    'font': 'Arial',
-                    'fontWeight': 700,
-                    'fontSize': 14,
-                    'fontColor': '#4b4b4b',
-                }
-                  }
-                }
-
-    alt.themes.register('personal', _theme)# enable the newly registered theme
-    alt.themes.enable('personal')
-    # Determine what, if anything should be returned
-    out = []
-    if return_colors == True:
-        out.append(colors)
-    if return_palette == True:
-        out.append(palette)
-    
-    if len(out) == 1:
-        return out[0]
-    else:
-        return out
-
-
-def bokeh_style(return_colors=True, return_palette=True):
-    theme_json = {
-        "attrs": {
-            "Figure": {"background_fill_color": "#f0f3f7",},
-            "Axis": {
-                "axis_line_color": None,
-                "major_tick_line_color": None,
-                "minor_tick_line_color": None,
-            },
-            "Legend": {
-                "border_line_color": "slategray",
-                "background_fill_color": "#f0f3f7",
-                "border_line_width": 0.75,
-                "background_fill_alpha": 0.75,
-            },
-            "Grid": {"grid_line_color": "#FFFFFF", "grid_line_width": 0.75,},
-            "Text": {
-                "text_font_style": "regular",
-                "text_font_size": "12pt",
-                "text_font": "Nunito"
-            },
-            "Title": {
-                "background_fill_color": "#FFFFFF",
-                "text_color": "#3c3c3c",
-                "align": "left",
-                'text_font_style': 'normal',
-                'text_font_size': "10pt",
-                "offset": 5 
-            },
-        }
-    }
-
-    colors, palette = get_colors()
-    theme = bokeh.themes.Theme(json=theme_json)
-    bokeh.io.curdoc().theme = theme
-    out = []
-    if return_colors:
-        out.append(colors)  
-    if return_palette:  
-       out.append(palette) 
-    if return_colors | return_palette:
-        return out
-
