@@ -74,3 +74,14 @@ ax[1].set_ylabel('$\lambda$\ngrowth rate [hr$^{-1}$]', fontsize=6)
 ax[1].legend(bbox_to_anchor=(1,1))
 
 plt.savefig('./metabolic_rate_example.pdf', bbox_inches='tight')
+
+
+#%% use a linear fit to the r-line to estimate metabolic rates
+import scipy.stats
+data = pd.read_csv('../../data/results_summary.csv', skiprows=1)
+r_data = pd.read_csv('../../data/Fig4_ecoli_ribosomal_mass_fractions.csv')
+popt = scipy.stats.linregress(r_data['growth_rate_hr'], r_data['mass_fraction'])
+data = data[['Strain', 'Buffer', 'Experiment', 'carbon_source', 'growth_rate']]
+data['estimated_phiRb'] = popt[1] + popt[0] * data['growth_rate']
+data['estimated_nu_inv_hr'] = estimate_nu(data['estimated_phiRb'], data['growth_rate'])
+data.to_csv('../../data/estimated_metabolic_rate_all_strains.csv', index=False)
