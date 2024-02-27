@@ -56,3 +56,33 @@ for g, d in merged.groupby(['sector', 'carbon_source']):
 df = pd.concat(_dfs, sort=False)
 
 df.to_csv('../../data/filtered_relative_mass_fracs.csv', index=False)
+
+
+#%% Make a figure
+
+fig, ax = plt.subplots(1, 2, figsize=(2,1), sharey=True)
+ax[0].set_yticks([0, 1, 2, 3])
+ax[0].set_yticklabels(['\ntranscription\nregulation', '\ncarb.\ntransport', '\nTCA cycle', '\nglycolysis'],
+                      fontsize=5)
+
+fig.text(0.2, -0.1, 'expression change relative to NCM3722', fontsize=5)
+
+idx = {'glycolysis':3, 'TCA cycle':2, 'carbohydrate transport':1, 'transcriptional regulators':0}
+
+nudges = {'AC1':0, 'ECOR02':0.2, 'ECOR51':0.4, 'ECOR63':0.6}
+colors = {'AC1':cor['primary_blue'], 'ECOR02':cor['primary_green'], 'ECOR51':cor['primary_purple'], 'ECOR63':cor['primary_black']}
+for k, v in colors.items():
+    ax[1].plot([], [], 's', ms=4, alpha=0.75, color=v, label=k)
+leg = ax[1].legend(fontsize=4, loc='upper right', handletextpad=0.05, bbox_to_anchor=(1.1, 1))
+
+ax[0].set_title('acetate growth', fontsize=5)
+ax[1].set_title('glucose growth', fontsize=5)
+for g, d in df[df['strain']!='NCM3722'].groupby(['strain', 'sector', 'carbon_source']):
+    if g[-1] == 'acetate':
+        a = ax[0]
+    else:
+        a = ax[1]
+    a.barh(idx[g[1]]-nudges[g[0]], d['NCM_fold_change'], height=0.2,
+
+            color=colors[g[0]], alpha=0.75)
+plt.savefig('./mass_spec_change.pdf', bbox_inches='tight')
