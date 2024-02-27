@@ -64,7 +64,9 @@ fig, ax = plt.subplots(1, 2, figsize=(2,1), sharey=True)
 ax[0].set_yticks([0, 1, 2, 3])
 ax[0].set_yticklabels(['\ntranscription\nregulation', '\ncarb.\ntransport', '\nTCA cycle', '\nglycolysis'],
                       fontsize=5)
-
+for a in ax:
+    a.set_xlim([0, 3])
+    a.set_xticks([0, 1, 3])
 fig.text(0.2, -0.1, 'expression change relative to NCM3722', fontsize=5)
 
 idx = {'glycolysis':3, 'TCA cycle':2, 'carbohydrate transport':1, 'transcriptional regulators':0}
@@ -72,8 +74,8 @@ idx = {'glycolysis':3, 'TCA cycle':2, 'carbohydrate transport':1, 'transcription
 nudges = {'AC1':0, 'ECOR02':0.2, 'ECOR51':0.4, 'ECOR63':0.6}
 colors = {'AC1':cor['primary_blue'], 'ECOR02':cor['primary_green'], 'ECOR51':cor['primary_purple'], 'ECOR63':cor['primary_black']}
 for k, v in colors.items():
-    ax[1].plot([], [], 's', ms=4, alpha=0.75, color=v, label=k)
-leg = ax[1].legend(fontsize=4, loc='upper right', handletextpad=0.05, bbox_to_anchor=(1.1, 1))
+    ax[0].plot([], [], 's', ms=4, alpha=0.75, color=v, label=k)
+leg = ax[0].legend(fontsize=4, loc='upper right', handletextpad=0.05, bbox_to_anchor=(1.1, 1))
 
 ax[0].set_title('acetate growth', fontsize=5)
 ax[1].set_title('glucose growth', fontsize=5)
