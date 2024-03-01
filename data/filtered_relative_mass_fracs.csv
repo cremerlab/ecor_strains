@@ -1,0 +1,41 @@
+strain,carbon_source,growth_rate,mass_frac,sector,discriminator,NCM_fold_change
+AC1,acetate,0.2021,0.026695465164971136,TCA cycle,GO Terms: GO:0006099,0.7860198228143226
+ECOR02,acetate,0.2738,0.029194363304118037,TCA cycle,GO Terms: GO:0006099,0.859597243564444
+ECOR51,acetate,0.2756,0.026520817673212002,TCA cycle,GO Terms: GO:0006099,0.7808775115760974
+ECOR63,acetate,0.5526,0.02884907557785367,TCA cycle,GO Terms: GO:0006099,0.849430610552392
+NCM3722,acetate,0.4069,0.03396283960039169,TCA cycle,GO Terms: GO:0006099,1.0
+AC1,glucose,0.7299,0.009885132827312924,TCA cycle,GO Terms: GO:0006099,0.8619320741842779
+ECOR02,glucose,0.8861,0.008435668291195367,TCA cycle,GO Terms: GO:0006099,0.7355463193444042
+ECOR51,glucose,0.3208,0.0210442325254769,TCA cycle,GO Terms: GO:0006099,1.8349474212610244
+ECOR63,glucose,0.5048,0.026822523565542156,TCA cycle,GO Terms: GO:0006099,2.33878429107451
+NCM3722,glucose,0.9823,0.0114685752199999,TCA cycle,GO Terms: GO:0006099,1.0
+AC1,acetate,0.2021,0.00996440103229813,carbohydrate transport,GO Terms: GO:0008643; GO:0006861; GO:0008644,0.7260195695856004
+ECOR02,acetate,0.2738,0.012833227344049706,carbohydrate transport,GO Terms: GO:0008643; GO:0006861; GO:0008644,0.9350460868165468
+ECOR51,acetate,0.2756,0.023680016691520568,carbohydrate transport,GO Terms: GO:0008643; GO:0006861; GO:0008644,1.725357647733343
+ECOR63,acetate,0.5526,0.006850188652979726,carbohydrate transport,GO Terms: GO:0008643; GO:0006861; GO:0008644,0.4991138956868616
+NCM3722,acetate,0.4069,0.013724700338292038,carbohydrate transport,GO Terms: GO:0008643; GO:0006861; GO:0008644,1.0
+AC1,glucose,0.7299,0.007619657458777904,carbohydrate transport,GO Terms: GO:0008643; GO:0006861; GO:0008644,1.2282368081898014
+ECOR02,glucose,0.8861,0.006634003362410711,carbohydrate transport,GO Terms: GO:0008643; GO:0006861; GO:0008644,1.0693560910643085
+ECOR51,glucose,0.3208,0.025716210536548725,carbohydrate transport,GO Terms: GO:0008643; GO:0006861; GO:0008644,4.145277726593956
+ECOR63,glucose,0.5048,0.006259723353485949,carbohydrate transport,GO Terms: GO:0008643; GO:0006861; GO:0008644,1.0090247066132376
+NCM3722,glucose,0.9823,0.0062037364520999,carbohydrate transport,GO Terms: GO:0008643; GO:0006861; GO:0008644,1.0
+AC1,acetate,0.2021,0.04671841534012728,glycolysis,"genes: pgi, kduL, yggF, ybhA, gplX, pfkA, pfkB, fbaB, fbaA, tpiA, gapA, pgk, gpmA, gpmM, eno, ppsA, pykF, pykA",1.3774456582402053
+ECOR02,acetate,0.2738,0.03811636316994574,glycolysis,"genes: pgi, kduL, yggF, ybhA, gplX, pfkA, pfkB, fbaB, fbaA, tpiA, gapA, pgk, gpmA, gpmM, eno, ppsA, pykF, pykA",1.1238227704023316
+ECOR51,acetate,0.2756,0.03769739173830374,glycolysis,"genes: pgi, kduL, yggF, ybhA, gplX, pfkA, pfkB, fbaB, fbaA, tpiA, gapA, pgk, gpmA, gpmM, eno, ppsA, pykF, pykA",1.1114698176054445
+ECOR63,acetate,0.5526,0.03094330354301315,glycolysis,"genes: pgi, kduL, yggF, ybhA, gplX, pfkA, pfkB, fbaB, fbaA, tpiA, gapA, pgk, gpmA, gpmM, eno, ppsA, pykF, pykA",0.9123322956616384
+NCM3722,acetate,0.4069,0.03391670303699219,glycolysis,"genes: pgi, kduL, yggF, ybhA, gplX, pfkA, pfkB, fbaB, fbaA, tpiA, gapA, pgk, gpmA, gpmM, eno, ppsA, pykF, pykA",1.0
+AC1,glucose,0.7299,0.0384497738365972,glycolysis,"genes: pgi, kduL, yggF, ybhA, gplX, pfkA, pfkB, fbaB, fbaA, tpiA, gapA, pgk, gpmA, gpmM, eno, ppsA, pykF, pykA",1.0945754995729517
+ECOR02,glucose,0.8861,0.0325501836401857,glycolysis,"genes: pgi, kduL, yggF, ybhA, gplX, pfkA, pfkB, fbaB, fbaA, tpiA, gapA, pgk, gpmA, gpmM, eno, ppsA, pykF, pykA",0.9266279086727839
+ECOR51,glucose,0.3208,0.03641724788913326,glycolysis,"genes: pgi, kduL, yggF, ybhA, gplX, pfkA, pfkB, fbaB, fbaA, tpiA, gapA, pgk, gpmA, gpmM, eno, ppsA, pykF, pykA",1.0367142202376032
+ECOR63,glucose,0.5048,0.02928125606454729,glycolysis,"genes: pgi, kduL, yggF, ybhA, gplX, pfkA, pfkB, fbaB, fbaA, tpiA, gapA, pgk, gpmA, gpmM, eno, ppsA, pykF, pykA",0.8335691549495949
+NCM3722,glucose,0.9823,0.0351275666699998,glycolysis,"genes: pgi, kduL, yggF, ybhA, gplX, pfkA, pfkB, fbaB, fbaA, tpiA, gapA, pgk, gpmA, gpmM, eno, ppsA, pykF, pykA",1.0
+AC1,acetate,0.2021,0.030958989393958605,transcriptional regulators,GO Terms: GO:0006355; GO:0032583; GO:0045449; GO:0061019; ,1.1359300781096051
+ECOR02,acetate,0.2738,0.029982750137812875,transcriptional regulators,GO Terms: GO:0006355; GO:0032583; GO:0045449; GO:0061019; ,1.1001104484577509
+ECOR51,acetate,0.2756,0.03465700014615458,transcriptional regulators,GO Terms: GO:0006355; GO:0032583; GO:0045449; GO:0061019; ,1.2716154388020269
+ECOR63,acetate,0.5526,0.033373858002465694,transcriptional regulators,GO Terms: GO:0006355; GO:0032583; GO:0045449; GO:0061019; ,1.2245350985183523
+NCM3722,acetate,0.4069,0.02725430903764782,transcriptional regulators,GO Terms: GO:0006355; GO:0032583; GO:0045449; GO:0061019; ,1.0
+AC1,glucose,0.7299,0.02786555311585478,transcriptional regulators,GO Terms: GO:0006355; GO:0032583; GO:0045449; GO:0061019; ,1.1144827154253145
+ECOR02,glucose,0.8861,0.028349654372639466,transcriptional regulators,GO Terms: GO:0006355; GO:0032583; GO:0045449; GO:0061019; ,1.1338443437755241
+ECOR51,glucose,0.3208,0.03517272954499649,transcriptional regulators,GO Terms: GO:0006355; GO:0032583; GO:0045449; GO:0061019; ,1.4067332153519836
+ECOR63,glucose,0.5048,0.031663636409844945,transcriptional regulators,GO Terms: GO:0006355; GO:0032583; GO:0045449; GO:0061019; ,1.2663870456677053
+NCM3722,glucose,0.9823,0.0250031272178327,transcriptional regulators,GO Terms: GO:0006355; GO:0032583; GO:0045449; GO:0061019; ,1.0
