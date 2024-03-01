@@ -1,0 +1,26 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+QOXC01.1        MYCIKNMDVKITILQVEVANLR-PNPWNTNSVGAQNFEKLKGSIEKLGFFKPILARELDG
+QOXD01.1        MLPEKN---EFPIIQIEIAKIKFLNPRTRNKV---VHEEIKESIKKRGLSKPISVRAIDE
+                *   **   ::.*:*:*:*::.  **.. *.*    .*::* **:* *: *** .* :* 
+
+QOXC01.1        GIFE--ILGGEHRWRAAMEQGISTVPVISVGKINDLVAKQMSLVDNERYGEDDQVALQRL
+QOXD01.1        GDFKYALICGQGRIEALVALGETIIPAI-IRDVSEEDAYVMSLVENIARRRPRSNELLQV
+                * *:  :: *: *  * :  * : :*.* : .:.:  *  ****:*       .  * .:
+
+QOXC01.1        IEE--IQSEIDYRLSDIAPYDDEMAATLAKASVIDLEALEALSRGDDEPVDEDKREKTE-
+QOXD01.1        IKDMKIRGLSDSEISEITGYSSNWVSSINM----------LLDKGEHKLLSAVERGNLPL
+                *::  *..  *  :*:*: *..: .:::             *..*: : :.  :* :   
+
+QOXC01.1        RVGAEHQTMRFKVTFDASDRVIEQKTLETHEVVEFELSSVFDLMGVQLPYRQIIKNTCPW
+QOXD01.1        YLAVQFARCETEEAQDILTEAYDKKLIKSRDIIKIK----------HILNQRTVGN----
+                 :..:.     : : *    . ::* :::.::::::          ::  .. : *    
+
+QOXC01.1        RYRGPECGYTGPYFDKNNQQTTMSGA----DCCTKRYDSCNARRNYFANGVI--------
+QOXD01.1        --KGAKA--AGFYYHKPSKRMTAEELIELYENSIAEHKSVYNNSKFIKTNLLIVNEIFNI
+                  .*.:.  :* *: * .:. * .      : .   :.*   . ::: ..::        
+
+QOXC01.1        -----HFGGFIGATRYGQ---------------
+QOXD01.1        IMMNKSFQHILEQENLSELPSQILTPVNKEVLK
+                      *  ::   . .:               

@@ -1,0 +1,137 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+QOZD01.1        MRHFIYQDEKSHKFWAVEQQDNELHISWGKIGTHGQSQIKSFSDAAAAAKAELKLIAEKV
+QOWY01.1        MRHFIYQDEKSHKFWAVEQQGNELHISWGKVGTKGQSQIKSFSDAAAAAKAELKLIAEKV
+QOWQ01.1        MRHFIYQDEKSHKFWAVEQQDNELHISWGKIGTHGQSQIKSFSDAAAAAKAELKLIAEKV
+MG1655          MRHFIYQDEKSHKFRAVEQQGNELHISWGKVGTKGQSQIKSFSDAAAAAKAELKLIAEKV
+QOWZ01.1        MRHFIYQDEKSHKFRAVEQQGNELHISWGKVGTKGQSQIKSFSDAAAAAKAELKLIAEKV
+QOWN01.1        MRHFIYQDEKSHKFRAVEQQGNELHISWGKVGTKGQSQIKSFSDAAAAAKAELKLIAEKV
+QOXE01.1        MRHFIYQDEKSHKFRAVEQQGNELHISWGKVGTKGQSQIKSFSDAAAAAKAELKLIAEKV
+QOXD01.1        MRHFIYQDEKSHKFRAVEQQGNELHISWGKVGTKGQSQIKSFSDAAAAAKAELKLIAEKV
+NCM3722         MRHFIYQDEKSHKFRAVEQQGNELHISWGKVGTKGQSQIKSFSDAAAAAKAELKLIAEKV
+QOWU01.1        MRHFIYQDEKSHKFWAVEQQGNELHISWGKVGTKGQSQIKSFSDAAAAEKAELKLIAEKV
+QOXU01.1        MKTYIYQDEKSHKFWAVEQQGNELNISWGKVGTNGQSQVKSFADAAAAEKAELKLIAEKT
+QOXV01.1        MKTYIYQDEKSHKFWAVEQQGNELNISWGKVGTNGQSQVKSFADAAAAEKAELKLIAEKT
+QOYF01.1        MKTYIYQDEKSHKFWAVEQQGNELNISWGKVGTNGQSQVKSFADAAAAEKAELKLIAEKT
+                *. :**********.*****.***:*****:**:****:***:***** **********.
+
+QOZD01.1        KKGYVEQAKDNSLQPSQTVTGSLKVADLSTIIQEQPSFVAETRAPDKNTDAVLPWLAKDI
+QOWY01.1        KKGYVEQAKDNSLQPSQTVTGSLKVADLSTIIQEQPSFVAETRAPDKNTDAVLPWLAKDI
+QOWQ01.1        KKGYVEQAKDNSLQPSQTVTGSLKVADLSTIIQEQPSFVAETRAPDKNTDAVLPWLAKDI
+MG1655          KKGYVEQAKDNSLQPSQTVTGSLKVADLSTIIQEQPSFVAETRAPDKNTDAVLPWLAKDI
+QOWZ01.1        KKGYVEQAKDNSLQPSQTVTGSLKVADLSTIIQEQPSFVAETRAPDKNTDAVLPWLAKDI
+QOWN01.1        KKGYVEQAKDNSLQPSQTVTGSLKVADLSTIIQEQPSFVAETRAPDKNTDAVLPWLAKDI
+QOXE01.1        KKGYVEQAKDNSLQPSQTVTGSLKVADLSTIIQEQPSFVAETRAPDKNTDAVLPWLAKDI
+QOXD01.1        KKGYVEQAKDNSLQPSQTVTGSLKVADLSTIIQEQPSFVAETRAPDKNTDAVLPWLAKDI
+NCM3722         KKGYVEQAKDNSLQPSQTVTGSLKVADLSTIIQEQPSFVAETRAPDKNTDAVLPWLAKDI
+QOWU01.1        KKGYVEQAKDNSLQPSQTVTGSLKVADLSTIIQEQPSFVAETRAPDKNTDAVLPWLAKDI
+QOXU01.1        KKGYVEQAENATSKHTRTVTKTLELSDFSTIIQEQPSVTPEIYVADKNTDVILPWLAKDI
+QOXV01.1        KKGYVEQAENATSKHTRTVTKTLELSDFSTIIQEQPSVTPEIYVADKNTDVILPWLAKDI
+QOYF01.1        KKGYVEHAENATSKHTRTVTKSLELSDFSTIIQEQPSVTPDDAPRDKCT-----------
+                ******:*:: : : :.*** :*:::*:*********...:    ** *           
+
+QOZD01.1        AVVFPPEVVHTTLSHRRFPGVPVQQADKLTQLRRLACSVSQRDNKTATFDFSACSLEWQN
+QOWY01.1        AVVFPPEVVHTTLSHRRFPGVPVQQADKLTQLRRLACSVSQRDNKTATFDFSACSLEWQN
+QOWQ01.1        AVVFPPEVVHTTLSHRRFPGVPVQQADKLTQLRRLACSVSQRDNKTATFDFSACSLEWQN
+MG1655          AVVFPPEVVHTTLSHRRFPGVPVQQADKLPQLRRLACSVSQRDNKTATFDFSACSLEWQN
+QOWZ01.1        AVVFPPEVVHTTLSHRRFPGVPVQQADKLPQLRRLACSVSQRDNKTATFDFSACSLEWQN
+QOWN01.1        AVVFPPEVVHTTLSHRRFPGVPVQQADKLPQLRRLACSVSQRDNKTATFDFSACSLEWQN
+QOXE01.1        AVVFPPEVVHTTLSHRRFPGVPVQQADKLPQLRRLACSVSQRDNKTATFDFSACSLEWQN
+QOXD01.1        AVVFPPEVVHTTLSHRRFPGVPVQQADKLPQLRRLACSVSQRDNKTATFDFSACSLEWQN
+NCM3722         AVVFPPEVVHTTLSHRRFPGVPVQQADKLPQLRRLACSVSQRDNKTATFDFSACSLEWQN
+QOWU01.1        AVVFPPEVVHTTLSHRRFPGVPVQQADKLTQLRRLACSVSQRDNKTATFDFSACSLEWQN
+QOXU01.1        AVVFPLEVVPTTLSHRRFPGDPVTPVDKLTQLRRLACGVSQRDNKTATFDFSACTLEWQN
+QOXV01.1        AVVFPLEVVPTTLSHRRFPGDPVTPVDKLTQLRRLACGVSQRDNKTATFDFSACTLEWQN
+QOYF01.1        ----------------------------------LSCAI---NGIHAAFHY---------
+                                                  *:*.:   :.  *:* :         
+
+QOZD01.1        TVAQAISQIDGLKTTQLPSPVMAVLTALEMKCTRYKVREDVMDQIVQEGGLEYATDVIIH
+QOWY01.1        TVAQAISQIDGLKTTQLPSPVMAVLTALEMKCTRYKVREDVMDQIVQEGGLEYATDVIIH
+QOWQ01.1        TVAQAISQIDGLKTTQLPSPVMAVLTALEIKCTRYKVREDVMDQIVQEGGLEYATDVIIH
+MG1655          TVAQAISQIDGLKTTQLPSPVMAVLTALEMKCTRYKVREDVMDQIVQEGGLEYATDVIIH
+QOWZ01.1        TVAQAISQIDGLKTTQLPSPVMAVLTALEMKCTRYKVREDVMDQIVQEGGLEYATDVIIH
+QOWN01.1        TVAQAISQIDGLKTTQLPSPVMAVLTALEMKCTRYKVREDVMDQIVQEGGLEYATDVIIH
+QOXE01.1        TVAQAISQIDGLKTTQLPSPVMAVLTALEMKCTRYKVREDVMDQIVQEGGLEYATDVIIH
+QOXD01.1        TVAQAISQIDGLKTTQLPSPVMAVLTALEMKCTRYKVREDVMDQIVQEGGLEYATDVIIH
+NCM3722         TVAQAISQIDGLKTTQLPSPVMAVLTALEMKCTRYKVREDVMDQIVQEGGLEYATDVIIH
+QOWU01.1        TVAQAISQIDGLKTTQLPSPVMAVLTALEMKCTRYKVREDVMDQIVQEGGLEYATDVIIH
+QOXU01.1        FIAQAIDLINSPKTTKLPSPVMAVLAALELHCTRYKEREDVMDQIIQEGGLEYATG----
+QOXV01.1        FIAQAIDLINSPKTTKLPSPVMAVLAALELHCTRYKEREDVMDQIIQEGGLEYATG----
+QOYF01.1        -----------LKKNYISGCVMT-----------------------------VPTG----
+                            *.. :.. **:                              .*.    
+
+QOZD01.1        LQQIDIEWDYANNVIIILPSGIAPSYLEQYSRFELRLRKHLSLTEESLWQKCAQKLIAAI
+QOWY01.1        LQQIDIKWDYG-------------------------------------------------
+QOWQ01.1        LQQIDIEWDYANNVIIILPSGIAPSYLEQYSRFELRLRKHLSLTEESLWQKCAQKLIAAI
+MG1655          LQQIDIEWDYANNVIIILPSGIAPSYLEQYSRFE--------------------------
+QOWZ01.1        LQQIDIEWDYANNVIIILPSGIAPSYLEQYSRFE--------------------------
+QOWN01.1        LQQIDIEWDYANNVIIILPSGIAPSYLEQYSRFE--------------------------
+QOXE01.1        LQQIDIEWDYANNVIIILPSGIAPSYLEQYSRFE--------------------------
+QOXD01.1        LQQIDIEWDYANNVIIILPSGIAPSYLEQYSRFE--------------------------
+NCM3722         LQQIDIEWDYANNVIIILPSGIAPSYLEQYSRFE--------------------------
+QOWU01.1        LQQIDIEWDYANNVIIILPSGIAPSYLEQYSRFELRLRKHLSLTEESLWQKCAQKLIAAI
+QOXU01.1        ------------------------------------------------------------
+QOXV01.1        ------------------------------------------------------------
+QOYF01.1        ------------------------------------------------------------
+                                                                            
+
+QOZD01.1        PHIPEWRQPLIALLLPEKPEIAHEIAQRLLGQKKLPSLEWLKIVGDAANLLI--------
+QOWY01.1        ------------------------------------------------------------
+QOWQ01.1        PHIPEWRQPLIALLLPEKPEIAHEIAQRLLGQKKLPSLEWLKIVATDEHILASLEKYHEP
+MG1655          ------------------------------------------------------------
+QOWZ01.1        ------------------------------------------------------------
+QOWN01.1        ------------------------------------------------------------
+QOXE01.1        ------------------------------------------------------------
+QOXD01.1        ------------------------------------------------------------
+NCM3722         ------------------------------------------------------------
+QOWU01.1        PHIPEWRQPLIALLLPEKPEIAHEIAQRLLGQKKLPSLEWLKIVATDEHILASLEKYHEP
+QOXU01.1        ------------------------------------------------------------
+QOXV01.1        ------------------------------------------------------------
+QOYF01.1        ------------------------------------------------------------
+                                                                            
+
+QOZD01.1        ------------------------------------------------------------
+QOWY01.1        ------------------------------------------------------------
+QOWQ01.1        YAIFDDYYCGAIWSATVLQEQGVAALPRFAPYAASDYCADVLRHINHPFALTLLIRVAGH
+MG1655          ------------------------------------------------------------
+QOWZ01.1        ------------------------------------------------------------
+QOWN01.1        ------------------------------------------------------------
+QOXE01.1        ------------------------------------------------------------
+QOXD01.1        ------------------------------------------------------------
+NCM3722         ------------------------------------------------------------
+QOWU01.1        YAIFDDYYCGAIWSATVLQEQGVAALPRFAPYAASDYCADVLRHINHPFALTLLIRVAGQ
+QOXU01.1        ------------------------------------------------------------
+QOXV01.1        ------------------------------------------------------------
+QOYF01.1        ------------------------------------------------------------
+                                                                            
+
+QOZD01.1        ------------------------------------------------------------
+QOWY01.1        ------------------------------------------------------------
+QOWQ01.1        TKRCHDRMTKAIAAFPHAAMAALTELLGQKEENSWRIMLMTMLISQPALAEQVIPWLSTP
+MG1655          ------------------------------------------------------------
+QOWZ01.1        ------------------------------------------------------------
+QOWN01.1        ------------------------------------------------------------
+QOXE01.1        ------------------------------------------------------------
+QOXD01.1        ------------------------------------------------------------
+NCM3722         ------------------------------------------------------------
+QOWU01.1        TKRCHDRMTKAIAAFPHAAMAALTELLGQKEENSWRIMLMTMLISQPALAEQVIPWLSTP
+QOXU01.1        ------------------------------------------------------------
+QOXV01.1        ------------------------------------------------------------
+QOYF01.1        ------------------------------------------------------------
+                                                                            
+
+QOZD01.1        ---------------------------------
+QOWY01.1        ---------------------------------
+QOWQ01.1        AVAVLKSCQQQLTQPSNHASADLLPAVVVSHKR
+MG1655          ---------------------------------
+QOWZ01.1        ---------------------------------
+QOWN01.1        ---------------------------------
+QOXE01.1        ---------------------------------
+QOXD01.1        ---------------------------------
+NCM3722         ---------------------------------
+QOWU01.1        AVAVLKSCQQQLTQPSNHASADLLPAVVVSHKR
+QOXU01.1        ---------------------------------
+QOXV01.1        ---------------------------------
+QOYF01.1        ---------------------------------
+                                                 

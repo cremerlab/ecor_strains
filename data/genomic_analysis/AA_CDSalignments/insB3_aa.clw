@@ -1,0 +1,14 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+MG1655          MDEQWGYVGAKSRQRWLFYAYDRLRKTVVAHVFGERTMATLGRLMSLLSPFDVVIWMTDG
+MG1655          MDEQWGYVGAKSRQRWLFYAYDRLRKTVVAHVFGERTMATLGRLMSLLSPFDVVIWMTDG
+                ************************************************************
+
+MG1655          WPLYESRLKGKLHVISKRYTQRIERHNLNLRQHLARLGRKSLSFSKSVEQHDKVIGHYLN
+MG1655          WPLYESRLKGKLHVISKRYTQRIERHNLNLRQHLARLGRKSLSFSKSVEQHDKVIGHYLN
+                ************************************************************
+
+MG1655          IKHYQ
+MG1655          IKHYQ
+                *****

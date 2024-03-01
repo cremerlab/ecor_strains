@@ -7,7 +7,13 @@ Files include the basic input .csv containing annotated genes and sequences:
 'good_annotationDF.csv' (large version, contains all sequences)
 
 Post-alignment outputs:
+AA_CDSalignments
+NT_CDSalignments
+NT_PROMalignments
+^These directories contain multiple sequence alignment files of the nucleotide and amino acid coding sequences and putative promoter regions in the form of ClustalOmega outputs. 
+
+
 AA_SeqIDTables 
 NT_SeqIDTables 
-These directories contains one file per strain, using the names strain as the reference. Within the .csv file, the table includes gene name, strain being compared to reference, length of the alignment, and the sequence identity (%) for the alignment. AA* contains the data for amino acid coding sequences, and NT* contains data for nucleotide coding sequences. 
+^These directories contains one file per strain, using the names strain as the reference. Within the .csv file, the table includes gene name, strain being compared to reference, length of the alignment, and the sequence identity (%) for the alignment. AA* contains the data for amino acid coding sequences, and NT* contains data for nucleotide coding sequences. 
 

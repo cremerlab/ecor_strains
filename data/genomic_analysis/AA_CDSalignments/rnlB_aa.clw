@@ -1,0 +1,14 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+MG1655          LFEITGINVSGALKAVVMATGFENPLSSVNEIETKLSALLGSETTGEILFDLLCANGPEW
+NCM3722         LFEITGINVSGALKAVVMATGFENPLSSVNEIETKLSALLGSETTGEILFDLLCANGPEW
+                ************************************************************
+
+MG1655          NRFVTLEMKYGRIMLDTAKIIDEQDVPTHILSKLTFTLRNHPEYLEASVLSPDDVRQVLS
+NCM3722         NRFVTLEMKYGRIMLDTAKIIDEQDVPTHILSKLTFTLRNHPEYLEASVLSPDDVRQVLS
+                ************************************************************
+
+MG1655          MDF
+NCM3722         MDF
+                ***

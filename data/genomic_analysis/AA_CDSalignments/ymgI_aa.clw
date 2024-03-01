@@ -1,0 +1,6 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+QOYF01.1        MSYFSFEIILIPVKNIIPIITVTLILNYLNNSERSLVKQILIEDEIIVCATYLIPDI
+QOYM01.1        MSYFSFEIILIPVKNIIPIITVTLILNYLNNSERSLVKQILIEDEIIVCATYLIPDN
+                ******************************************************** 

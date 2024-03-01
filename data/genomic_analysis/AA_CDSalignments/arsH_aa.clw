@@ -1,0 +1,22 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+QOZC01.1        MRLRHLSDPDSLPALDKSFAIERPALGLAPDAPPVRILLLYGSLRARSFSRLAVEEAARL
+QOXP01.1        ---------MGIPAISH----------------PPRILMLYGSVRERSYSRLATEEAGRL
+                          .:**:.:                * ***:****:* **:****.***.**
+
+QOZC01.1        LQFFGAETRIFDPSDLPLPDQVQSDDHPAVKELRALSEWSEGQVWCSPERHGQITSVMKA
+QOXP01.1        LTAMGADVRIFNPSGLPLPDDA-PESHPKVMELRELVRWSEGMVWCSPERHGAMTGIMKA
+                *  :**:.***:**.*****:. .:.** * *** *  **** ********* :*.:***
+
+QOZC01.1        QIDHLPLEMAGIRPTQGRTLAVMQVSGGSQSFNAVNTLRLLGRWMRMFTIPNQSSIAKAF
+QOXP01.1        QIDWIPLSEGAVRPSQGKTLAVMQVCGGSQSFNTVNQMRVLGRWMRMITIPNQSSVAKAW
+                ***.:**. ..:**:**.*******.*******:** :*:*******:*******:***:
+
+QOZC01.1        QEFDAAGRMKPSPYYDRIADVMEELVRFTALVRPHREALTDRYSERKAAGHVIDEATDLS
+QOXP01.1        QEFDDDGRMKPSPYYDRIVDVMEELMKFTLLTRANAAYL----GSFAGGGGILR------
+                ****  ************.******:.** *.*.:   *    ..  ..* ::       
+
+QOZC01.1        SIAIAPQPLPESETS
+QOXP01.1        ---------------
+                               

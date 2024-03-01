@@ -1,0 +1,42 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+QOYW01.1        ATGAAAAAATTAGCGATCATGGCCGCGAC------CAGCACTATCCTCGCGATGAGCTCC
+QOYJ01.1        ATGAAAAACAAAACGCTTATGACCATGATACTATGCGGGACCTTTGTTGGGA------CT
+                ********   * ** * *** **  **       * * **  *  * * **      * 
+
+QOYW01.1        TCGCATGCAGCGTT-----CACAGGAAGTGGTAGCACCGGTACGACAAAACTAACCGTTA
+QOYJ01.1        ACGCACGCAGCGGTGGATAAACACGCAACAG--GCACCTACAC------ACTAAACGTGA
+                 **** ****** *      *** * *   *  *****   **      ***** *** *
+
+QOYW01.1        CCGAACAGTGCCAAGTGCTGGTCACCGGATCTGACGCCACCAAA-----ACGCGCGGAGA
+QOYJ01.1        CCGAAGAAT-----GTGCCGTGCACCTAA-CCGACAACACCGAATCATTACGCAAGACTG
+                ***** * *     **** *  ****  * * ***  **** **     ****  *    
+
+QOYW01.1        ACTCACCGACGGGG----CCCGTGTGGGGGT---CCTGTCCGTAACCGCAAAAGGCTGTA
+QOYJ01.1        ACTTAACAGAAGGTAAACTCCTCGCAGGCGTTGGCCTTTCCG---CCACAGGATGCGCAA
+                *** * *    **      **  *  ** **   *** ****   ** **  * **   *
+
+QOYW01.1        ACACCGAGCATGCAGCGTTGCGTGCACAGCCA--GACAACTACCACCAGGGCAAGATCGT
+QOYJ01.1        ACTCTAAG--------GTTGCCTTCTCGGCCGACGCCGGGAACCTCAAGGGCACAAATAT
+                ** *  **        ***** * * * ***   * *    *** * ******  *   *
+
+QOYW01.1        ACTGCTCCGCGATGACCAGCAGGCACGGATAAA---TGTCCGCTTGCAGTCCTCCGACGG
+QOYJ01.1        CCTGCTC-----------AAGGGCGCCGACAAAACGAGCTTCATTCCAGTCTCCTGG-GA
+                 ******              *** * ** ***    *     ** *****  * *  * 
+
+QOYW01.1        GAGTGCGTGGAATACCAACGGCGACA-CCGTATACCG------CGCCGATGCTGGGA---
+QOYJ01.1        AACCGCGACGGCCGCAGGAGATGACAGCCATA-ACTGGACAGCCACTACTGAAGGGATTC
+                 *  ***  *    *    *  **** ** ** ** *      * *   **  ****   
+
+QOYW01.1        ACTGGGGTGGCAACTTGCTCGTAGTCGTGGACGGGGACAAC-----------------GT
+QOYJ01.1        ACCGAAATTCCAAC--GGTC-----CATGGGAAGGGACTATTCGACTGCGCGTCATTGGC
+                ** *   *  ****  * **     * ***   ***** *                  * 
+
+QOYW01.1        GGACAAAC--CGGCCGGG------TCCTACATACTGAACCTGGACGGGGGCTACTGGGTG
+QOYJ01.1        GACCAAACCTCGGCCAAGGCGCAAGCCTACACTTTAGTCCTCAACGGGGGCACGTGGATC
+                *  *****  *****  *       ******   *   ***  ********   *** * 
+
+QOYW01.1        AGT
+QOYJ01.1        GAA
+                   

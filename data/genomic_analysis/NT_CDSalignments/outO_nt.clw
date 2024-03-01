@@ -1,0 +1,50 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+EC7             ATGCTAAACAGCATATTTAATACGGCGATACT-------TTGCTGTGCAAATATCGTCTG
+QOWU01.1        GTG---AGCGCATTACTGAGCATGGCAATAATAATCATCATCCTG-GCGGTTATTCTTTA
+                 **   * *    ** * *  * *** *** *        * *** **   ***  * * 
+
+EC7             TCAATGCTACGCCTACAATGAAGTTAAATTCCGCTTA-----AATAAACTTAATGTATCT
+QOWU01.1        TC------TTGCATACAGCACCGCCGCCATCTATCTGTCAGCAGTACACGACACCCGGCC
+                **        ** ****     *      **    *      * ** **   *     * 
+
+EC7             TATAAAACCGG-AACAGAGAAATATTACTGTCTG---ATACTGACAACGCTTGCCGTTCT
+QOWU01.1        ACCAAAGCCGGTGGTGTACATATGTTGTCTTCTGGCCATAGTGA----------------
+                   *** ****      * * ** **    ****   *** ***                
+
+EC7             GTATC--TTTCATTAAATCAGCTATCACTGATTCAATCCATAATAGTGATTGTTTTCTAT
+QOWU01.1        GTGTCAGTCTCAACGGCGCATATGGTGTTGAGGCCA--CGGGGCTGTTATTCCTTTCCAT
+                ** **  * ***      **  *     ***  * *  *      ** ***  **** **
+
+EC7             GC-------ATTCCTTACATTAATGGCCTGTATAGACCTTCTTTCATTTCTACTACCACG
+QOWU01.1        TCTGACGGGATTATTAACTGTAATGACGCTGACGGATATTGCTGTCTGTCGGCTTCCCCG
+                 *       ***  * **  ***** *    *  **  **  *   * **  ** ** **
+
+EC7             CCTTTATACCGTGACATTTATCTTCTCCGGCCTGTTATATCAGACATGGAATAACAATAT
+QOWU01.1        ------------GATATTCACGCTTTCT--CTTATTATTCTGGGCGCAGCGTTCAGATAC
+                            ** *** *   * **   * * ****    * *   *  *    *** 
+
+EC7             -------ATTGTCTGGTT--TGTTTTGTGCAATG-----CTGATGTTCTTCATTATG---
+QOWU01.1        AGCCAGGACTCACTGACTCATGCCCTGCTCAACGCGTCACTGTGGTTCGGCATGATATAC
+                       * *  ***  *  **   **  *** *     ***  ****  *** **    
+
+EC7             CTGTTTGTAAGACTTTACTTTGCATATAAAAACGGAACGGAAAGTTTCGGCATGGGAGAT
+QOWU01.1        CTGTTACGACGCATTTTTCTGGCAGCGAAA---GGGACGGAAGCGCTCGGCCTTGGTGAT
+                *****   * *  ***   * ***   ***   ** ******    ***** * ** ***
+
+EC7             GTGCTACTTATTGCAGGAACTGGCGTATGGTTTCCAACGCCTGAGATTGCCTGTTCAATT
+QOWU01.1        GTGTTCCTGATTGCGGGGATCGCAATGTGGACGCAACCGCAACACAC------TCCACTG
+                *** * ** ***** ** *  *   * ***   * * ***   * *       * ** * 
+
+EC7             GTATTTATTGCCGTTATCGGCGGAA------TTATTTTCTTCACTCTTGGCGGATTAAAC
+QOWU01.1        ATAATCACCGCCGCAGCCTCCGGAGCATTTCTGTTTATCCTCATTTTCTGCCGTC-----
+                 ** * *  ****    *  ****       *  ** ** *** * *  ** *       
+
+EC7             AAGCAAAAAAAATATATC----CCATTCGGTCCGTTCCTTT--GTGGCGGAATGTTTGTT
+QOWU01.1        --GCAGATGCCAGTTAGCGCTGCCGTTTGCCCCGTTTCTCTGCGCGTCCCTGTATGTGCT
+                  *** *    *  ** *    ** ** *  ***** ** *  * * *    * * ** *
+
+EC7             TACTCACT-------------------CGTACCGGGAATATTATTC
+QOWU01.1        GACCCTCTTCCCTGATTCCGTTATCCACACATCGGAGATATTCACG
+                 ** * **                   *  * ***  *****    
