@@ -1,0 +1,10 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+QOYW01.1        TGTGACAACCCCACAGCGTTCTGCTGTGGGGTTATTCAACACGCAACAGATTTACGACTG
+QOXU01.1        TGTGACAACCCCACAGCGTTCTGCTGTGGGGTTTTTCAACGCGCAACGGATTTACGACTG
+                ********************************* ****** ****** ************
+
+QOYW01.1        TTTCACAAACGGATATGTGT
+QOXU01.1        TTTCACAAACGGATATGTGT
+                ********************

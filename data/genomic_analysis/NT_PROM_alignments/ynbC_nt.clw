@@ -1,0 +1,37 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+QOYM01.1        GGTAAAGGAGAGGCCCTGGAAATACCCCAC--AGCCCCGAAAAAGAGCCAGTCAGTTGCT
+QOXJ01.1        -------------------------------------GATATTGGTGTTAAA--------
+QOYI01.1        -------------------------GCCATCAAACGAGATATTGGTGTTAAA--------
+QOWU01.1        -------------------------TCCAC--AACGTAATGTT--TCTTAACCATTTGAT
+QOWR01.1        -------------------------TCCAC--AACGTAATATT--TCTTAACCCTTTGAT
+                                                                 *          
+
+QOYM01.1        TAACTG------------ACTGGCATTACATCCCTGGGGGACATTTTTTTACCACCAGTG
+QOXJ01.1        -GATAGCGGAAAACTATTGC---CAGGACATGGC----GGACTCCTT-------------
+QOYI01.1        -GATAGTGGAAAACTATTAC---CAGGACATGGC----GGACTCCTT-------------
+QOWU01.1        TAATTGGGGATAATCATTCCTGGCAGTGAGTCCC----CAATACCTT-------------
+QOWR01.1        TAATTGGGGATAATTATTCCTGACAGTGAGTCCC----CAATACCTT-------------
+                  *  *             *   **     *  *      *    **             
+
+QOYM01.1        ATAATACAGCGTTGTTTTATCGGCACTGGCCCACTTTACAGCCAGGGGCGAAAAAGGTCA
+QOXJ01.1        ----GACAGGATTGACTCATTAAT---------TTTCACCGCTCCGG-------------
+QOYI01.1        ----GACAGGATTGACTCATTAAT---------TTTCACCGCTCCGG-------------
+QOWU01.1        ----------GATATATTCTGAAT---------TTTTAATGAAGCGG-------------
+QOWR01.1        ----------GATATATTCTGAAT---------TTTTAATGAAGCGG-------------
+                            *   *  *              ** *  *    **             
+
+QOYM01.1        TCGTCTTATTTCATCGCGGTCATGAACATTCTGGTCGTCTACAACATATCGTTGATGA--
+QOXJ01.1        -TATTTTTTTAT----------------T--TTATACGCTACTGCTGTTACTGAAGGA--
+QOYI01.1        -TATTTTTTTAT----------------T--TTATTCGCTACTGCTGTTACTGAAGGA--
+QOWU01.1        -CGTGTTGCGATATCTCCGTCAGGGGAAT--TGATGCACCATAGCGCAAACCGAATTATC
+QOWR01.1        -CGTGTTGCGATATCTCCGTCAGGGGAAT--TGATGCACCATAGCGCAAACCGAATTATC
+                   * **                     *  *  *   * *   *         *  *  
+
+QOYM01.1        ----ACTGGCG
+QOXJ01.1        AAATAGAGAAA
+QOYI01.1        AAATAGAGAAA
+QOWU01.1        AAGGATTGATA
+QOWR01.1        AAGGATTGATA
+                    *  *   

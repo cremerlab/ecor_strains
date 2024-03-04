@@ -1,0 +1,255 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+QOXR01.1        ------------------------------------------------------------
+QOXS01.1        ------------------------------------------------------------
+QOYQ01.1        ------------------------------------------------------------
+QOYK01.1        ------------------------------------------------------------
+QOYB01.1        ------------------------------------------------------------
+QOYO01.1        ------------------------------------------------------------
+QOXA01.1        --------------------------ATATTCCTTTTTTCTTATCAATTCTGAGCATTTT
+EC3             -----GAATCACTGATCGTTATGTAAATATTTATATTACGATCGGTGCATAGGCAAAATT
+EC5             -----GAATCACTGATCGTTATGTAAATATTTATATTACGATCGGTGCATAGGCAAAATT
+EC6             -----GAATCACTGATCGTTATGTAAATATTTATATTACGATCGGTGCATAGGCAAAATT
+QOYX01.1        ------------------------------------------------------------
+QOYV01.1        -------------------AGTTCCTCTCTTTTTGTTTTTTAATTTTTTTGGAGTGTATC
+QOYH01.1        ----------------AATTTTTTGATTCCTTATCTAACACTAATAACTGAGACAGGTGG
+QOYP01.1        -CTTCACATTACTGAACGCTATTCCGACAGTATCACTACACAAATAAAAAAGGGAACTGG
+QOYS01.1        ------------------------------------------------------------
+EC2             ------------------------------------------------------------
+QOWW01.1        ------------------------------------------------------------
+QOYW01.1        ------------------------------------------------------------
+MG1655          TCATGTTCACATTAATCGGGGCTCTGAATTCAAAGTAACTTTATTACTAAGCATTATTTT
+NCM3722         TCATGTTCACATTAATCGGGGCTCTGAATTCAAAGTAACTTTATTACTAAGCATTATTTT
+QOXD01.1        --GAATCATCACTATAGGGAAAAAATGAATATTTAATACGGTAATCCATAAAGTGCCATG
+                                                                            
+
+QOXR01.1        ------------------------------------------------------------
+QOXS01.1        ------------------------------------------------------------
+QOYQ01.1        ------------------------------------------------------------
+QOYK01.1        ------------------------------------------------------------
+QOYB01.1        ------------------------------------------------------------
+QOYO01.1        ------------------------------------------------------------
+QOXA01.1        AGGTT-----------------------------CAAGCGTTCGGCTATCAGGAAAGCCC
+EC3             ATGAT--CCAGATCACACGTGAATGTAAGTTATTTACAAATTACGCTAACCTTCTGTCTC
+EC5             ATGAT--CCAGATCACACGTGAATGTAAGTTATTTACAAATTACGCTAACCTTCTGTCTC
+EC6             ATGAT--CCAGATCACACGTGAATGTAAGTTATTTACAAATTACGCTAACCTTCTGTCTC
+QOYX01.1        ------------------------------------------------------------
+QOYV01.1        ATGAT------------------------------------------------------T
+QOYH01.1        GGAAT-------------------------------------------------------
+QOYP01.1        ATAAA--TATTCATGCCGGAAGAATGGTGTAACAAAAGCATTTAATCATTACGTGCGTAT
+QOYS01.1        ------------------------------------------------------------
+EC2             ------------------------------------------------------------
+QOWW01.1        ------------------------------------------------------------
+QOYW01.1        ------------------------------------------------------------
+MG1655          GTGAA----------------------------------------------GGCTCTCAC
+NCM3722         GTGAA----------------------------------------------GGCTCTCAC
+QOXD01.1        ATTATAATCAAATTGATGATAATCAGCATTAATACTTATGTAACAGCAAGAATTTATGTC
+                                                                            
+
+QOXR01.1        -------------ATATCATTTCACCGTATCAGTGAACCGGGGCAATGCCCCCGGTTTGC
+QOXS01.1        -------------ATATCATTTCACCGTATCAGTGAACCGGGGCAATGCCCCCGGTTTGC
+QOYQ01.1        ------------------------------------------------------------
+QOYK01.1        ------------------------------------------------------------
+QOYB01.1        ------------------------------------------------------------
+QOYO01.1        ------------------------------------------------------------
+QOXA01.1        AATACGTTGATTCATAGAAGGA----------------------------ATCAGAACGC
+EC3             CGCTCTTTGCAGCATAAAAGTATGGCGGCGCGTTGTTGAAAGCAGGAGCGGCCGGGTTGT
+EC5             CGCTCTTTGCAGCATAAAAGTATGGCGGCGCGTTGTTGAAAGCAGGAGCGGCCGGGTTGT
+EC6             CGCTCTTTGCAGCATAAAAGTATGGCGGCGCGTTGTTGAAAGCAGGAGCGGCCGGGTTGT
+QOYX01.1        ------------------------------------------------------------
+QOYV01.1        TCTCTCTTATTTTTTCAAAATTCTATTTATTTCTGAATGCAAAGTAAAACGCTGACATGC
+QOYH01.1        ------------------------------------------------------------
+QOYP01.1        TCCTCTCTATTCGATCACGGTTTGGCCAAACCGTGATC---GATTCAGATGCCATTTTGC
+QOYS01.1        ------------------------------------------------------------
+EC2             ------------------------------------------------------------
+QOWW01.1        ------------------------------------------------------------
+QOYW01.1        ------------------------------------------------------------
+MG1655          TTTTGCTCGCGGCTCCGAAACTTTGCTGGGTTGAGATTTTAAGGTGTATCACGGCGGCTC
+NCM3722         TTTTGCTCGCGGCTCCGAAACTTTGCTGGGTTGAGATTTTAAGGTGTATCACGGCGGCTC
+QOXD01.1        TTAAACGTAGACAGTCATCGTATGGGCTGATGTTTCTATACCGTTAAATTGATGCCATCC
+                                                                            
+
+QOXR01.1        ------------------------------------------------------------
+QOXS01.1        ------------------------------------------------------------
+QOYQ01.1        ------------------------------------------------------------
+QOYK01.1        ------------------------------------------------------------
+QOYB01.1        ------------------------------------------------------------
+QOYO01.1        ------------------------------------------------------------
+QOXA01.1        TAAAAAATTGGCGGTAATATTAACACTAATCAACGACTTCATCGAT--------------
+EC3             CAGAAAGCTGGTTTGGACGCAAGTAATATATAACAACTCTGATTACCGCATACTGTCAGG
+EC5             CAGAAAGCTGGTTTGGACGCAAGTAATATATAACAACTCTGATTACCGCATACTGTCAGG
+EC6             CAGAAAGCTGGTTTGGACGCAAGTAATATATAACAACTCTGATTACCGCATACTGTCAGG
+QOYX01.1        ------------------------------------------------------------
+QOYV01.1        AAAAAAGTCATTCTTATTTAAGATTAAGTCAAAAATTT---ATCGAAAGACATTCTATTA
+QOYH01.1        -----------------TTAAAAGACAGTAGATGATATCATATAGACTGACATTTTTTGT
+QOYP01.1        AAGTACGCATGACCCGGAAGGGAAACACTTAACAACATGGTATCAACAGATATCATTACG
+QOYS01.1        ------------------------------------------------------------
+EC2             ------------------------------------------------------------
+QOWW01.1        ------------------------------------------------------------
+QOYW01.1        ------------------------------------------------------------
+MG1655          ----------------------ATACTCTCAATAAATCCCTGTTAGTAAATGCT------
+NCM3722         ----------------------ATACTCTCAATAAATCCCTGTTAGTAAATGCT------
+QOXD01.1        AACTATAAAACCTTGCTGCCCAATGCCCTATAGCTCCCTCAGGCAATTTGCCCTTATC--
+                                                                            
+
+QOXR01.1        ------------------------------------------------------------
+QOXS01.1        ------------------------------------------------------------
+QOYQ01.1        ------------------------------------------------------------
+QOYK01.1        ------------------------------------------------------------
+QOYB01.1        ------------------------------------------------------------
+QOYO01.1        ------------------------------------------------------------
+QOXA01.1        ------------------------------------------------------------
+EC3             ACAGTA----------------------------------TCTACTT-------GAGCGT
+EC5             ACAGTA----------------------------------TCTACTT-------GAGCGT
+EC6             ACAGTA----------------------------------TCTACTT-------GAGCGT
+QOYX01.1        ------------------------------------------------------------
+QOYV01.1        ATCTTA----------------------------------CATGAATAGAG---CAACGT
+QOYH01.1        TGTGTA----------------------------------TTAGATAATGTTAGCAATGT
+QOYP01.1        TGCGCACTCTTATAAAAATACACAGCAGAAGCAAGATAACTCTAAACGTAAATTTAATAT
+QOYS01.1        ------------------------------------------------------------
+EC2             ------------------------------------------------------------
+QOWW01.1        ------------------------------------------------------------
+QOYW01.1        ------------------------------------------------------------
+MG1655          ------------------------------------------------------------
+NCM3722         ------------------------------------------------------------
+QOXD01.1        ------------------------------------------------------CACTGT
+                                                                            
+
+QOXR01.1        ------------------------------------------------------------
+QOXS01.1        ------------------------------------------------------------
+QOYQ01.1        ------------------------------------------------------------
+QOYK01.1        ------------------------------------------------------------
+QOYB01.1        ------------------------------------------------------------
+QOYO01.1        ------------------------------------------------------------
+QOXA01.1        ----------------------------------------------------------CC
+EC3             CCGCCTTTGGC--------------------------------------------ACAAA
+EC5             CCGCCTTTGGC--------------------------------------------ACAAA
+EC6             CCGCCTTTGGC--------------------------------------------ACAAA
+QOYX01.1        ------------------------------------------------------------
+QOYV01.1        CCGCATCTGGC--------------------------------------------ACAGA
+QOYH01.1        CCGCTCCTGGC--------------------------------------------ACAGA
+QOYP01.1        CTCCCACTGACTGCCCCGACAATATACTGAAAAATACTCACCTCAGTAAACATAAACACA
+QOYS01.1        ------------------------------------------------------------
+EC2             ------------------------------------------------------------
+QOWW01.1        ------------------------------------------------------------
+QOYW01.1        ------------------------------------------------------------
+MG1655          ------------------------------------------------------------
+NCM3722         ------------------------------------------------------------
+QOXD01.1        TCTGGTCTGGG--------------------------------------------G--AT
+                                                                            
+
+QOXR01.1        ----TCCACAAAATCACA----------TTCCTCCCCG--------------GAATTCG-
+QOXS01.1        ----TCCACAAAATCACA----------TTCCTCCCCG--------------GAATTCG-
+QOYQ01.1        ---------CAGACAACG----------TTT-----------------------------
+QOYK01.1        ---------CAGACAACG----------TTT-----------------------------
+QOYB01.1        ---------CAGACAACG----------TTT-----------------------------
+QOYO01.1        ---------CAGACAACG----------TTT-----------------------------
+QOXA01.1        TTAAACCGAGAGATATAG----------GTTAGTCCCATCATGTCTGTAGCGCAGTTTCC
+EC3             GCGGACTGTCAGATTAGA----------TTCAGACCTGTAC-----------TCATTAGC
+EC5             GCGGACTGTCAGATTAGA----------TTCAGACCTGTAC-----------TCATTAGC
+EC6             GCGGACTGTCAGATTAGA----------TTCAGACCTGTAC-----------TCATTAGC
+QOYX01.1        --------------------------------------------------T-TCATTACC
+QOYV01.1        GCGGACTGTCAGATTAGA----------TTCAGACCTGTAC-----------TCATTAGC
+QOYH01.1        GCGGACTGTCAGATGAGG----------TTTAGTACTGTAC-----------CAATAAGC
+QOYP01.1        CCTGATAATCAGGCTGCAAGATGAATATTTTTCTCCTTTACGGAGTAAT---CAGCCTGC
+QOYS01.1        ------------------------------------------------------------
+EC2             -------------------------------------------------------GTGGC
+QOWW01.1        ----------------------------------------------------------GC
+QOYW01.1        ------------------------------------------------------------
+MG1655          ----GCTATTATAACTCA----------TTCATTGCCT--------------GAGCCAGC
+NCM3722         ----GCTATTATAACTCA----------TTCATTGCCT--------------GAGCCAGC
+QOXD01.1        GAGGGATATCAGAATAAC----------CTAACGACTCAGGGACTGGGATCACAGGCAAC
+                                                                            
+
+QOXR01.1        ------------------------------------------------------------
+QOXS01.1        ------------------------------------------------------------
+QOYQ01.1        ------------------------------------------------------------
+QOYK01.1        ------------------------------------------------------------
+QOYB01.1        ------------------------------------------------------------
+QOYO01.1        ------------------------------------------------------------
+QOXA01.1        TCTATCCAAGTGGCACCAGAT---------------------------------------
+EC3             TGATACAAATCAGCCACATAT---------------------------------------
+EC5             TGATACAAATCAGCCACATAT---------------------------------------
+EC6             TGATACAAATCAGCCACATAT---------------------------------------
+QOYX01.1        TGTTAC------------------------------------------------------
+QOYV01.1        TGATACAAATCAGCCACATAT---------------------------------------
+QOYH01.1        TGATACAAATTAGCTGCATAT---------------------------------------
+QOYP01.1        TGTTTAACAATAACCGCGTATTTTCATGGAAGGATATCACCCAATAACGGATAACTCCTG
+QOYS01.1        ------------------------------------------------------------
+EC2             TG----------------------------------------------------------
+QOWW01.1        TG----------------------------------------------------------
+QOYW01.1        ------------------------------------------------------------
+MG1655          AGTCGCGCAGCTGCCTCAAGC---------------------------------------
+NCM3722         AGTCGCGCAGCTGCCTCAAGC---------------------------------------
+QOXD01.1        CGTGGCTCGTCGCTTACCTTA---------------------------------------
+                                                                            
+
+QOXR01.1        ----------------------------------AATGCAAAAAAAAACAGACCTGTATT
+QOXS01.1        ----------------------------------AATGCAAAAAAAAACAGACCTGTATT
+QOYQ01.1        ----------------------------------ATTTCAAA----TTAAAAAAG-----
+QOYK01.1        ----------------------------------ATTTCAAA----TTAAAAAAG-----
+QOYB01.1        ----------------------------------ATTTCAAA----TTAAAAAAG-----
+QOYO01.1        ----------------------------------ATTTCAAA----TTAAAAAAG-----
+QOXA01.1        ----------------------------------AATCCAAGTATTTTCAGACATATATC
+EC3             ---------------------------ACCTGC-ATTCAAAATAATTTCAGAAAGATATT
+EC5             ---------------------------ACCTGC-ATTCAAAATAATTTCAGAAAGATATT
+EC6             ---------------------------ACCTGC-ATTCAAAATAATTTCAGAAAGATATT
+QOYX01.1        ----------------------------------ATTCTAAATAATCTCAGACAGATATT
+QOYV01.1        ---------------------------ACCTGC-ATTCCAAATAATTTCAGGCAGATATT
+QOYH01.1        ---------------------------ACCTGC-ATTTCAAATAATTTTAGAAAGATATT
+QOYP01.1        CCCTCCTTCATGTTAATACTCAACATCCCCATCGATTCCAAACAATTTCAGACAGATATT
+QOYS01.1        ---------------------------------------------TTTCAGACATATATT
+EC2             ----------------------------------ATTAAAGCCGATGACCG-----TGCC
+QOWW01.1        ----------------------------------ATTAAAGCCGATGACCG-----TGCC
+QOYW01.1        ------------------------------------------------------CGGGCC
+MG1655          ---------------------------GCAGAGGATTGAAAAAATCTTCAGATATATATC
+NCM3722         ---------------------------GCAGAGGATTGAAAAAATCTTCAGATATATATC
+QOXD01.1        ----------------------------------ATTCAAATTATTTTCAGATAGATATC
+                                                                            
+
+QOXR01.1        ACCGCAATGAAT-ACATTGCAGCGAAGTTGCTGTATC-GAATTT-----------TTTTC
+QOXS01.1        ACCGCAATGAAT-ACATTGCAGCGAAGTTGCTGTATC-GAATTT-----------TTTTC
+QOYQ01.1        --------------------------------------GAGACC-----TCGT-------
+QOYK01.1        --------------------------------------GAGACC-----TCGT-------
+QOYB01.1        --------------------------------------GAGACC-----TCGT-------
+QOYO01.1        --------------------------------------GAGACC-----TCGT-------
+QOXA01.1        ATCTCTCTGAAC---ACAACCATCCATACGGCGAACCTGTGGTTCGCCGTTGTTACTTTA
+EC3             ATCTCCGTGAAT-CCCCCGCCACCTTTCCGGTGCAC--GGGGTT-----TTGT--CTTTT
+EC5             ATCTCCGTGAAT-CCCCCGCCACCTTTCCGGTGCAC--GGGGTT-----TTGT--CTTTT
+EC6             ATCTCCGTGAAT-CCCCCGCCACCTTTCCGGTGCAC--GGGGTT-----TTGT--CTTTT
+QOYX01.1        ATCTCCGTGGTT-CCCCCGCCTCCTTTCCGGTGTGC--GGGGTT-----TTGT--CTTTT
+QOYV01.1        ATCTCCGTGAATCCCCCCGCCACCTTTCCGGTGCGC--GGGGTT-----TTGT--CTTTT
+QOYH01.1        ATCTCCGTGAAT-CCCCCGCCACCTTTCCGGTGTGC--GGGGTT-----TTGT--CTTTT
+QOYP01.1        ATCTCCGTGGAT-CCCCCGCCACCTTTCCGGTGTGC--GGGGTT-----TTGT--CTTTT
+QOYS01.1        ATCTCCGTGAAT-CCCCCGCCACCTTTCCGGTGTGT--GGGGTT-----TTGT--CTTTT
+EC2             CTGTCTGTGGAT--------------------------GAGTATTTCTGGCGACACATCC
+QOWW01.1        CTGTCTGTGGAT--------------------------GAGTATTTCTGGCGACACATCC
+QOYW01.1        CTGTCTGTGGAT--------------------------GAGTATTTCTGGCGACACATCC
+MG1655          ATCACTCTGAAC-ATACGCAATTAACGGCGGAATCTCACGATTCTACCGTTTTTTATTAT
+NCM3722         ATCACTCTGAAC-ATACGCAATTAACGGCGGAATCTCACGATTCTACCGTTTTTTATTAT
+QOXD01.1        ATTCTTCTGAAC-ATACCCGATTAACGGCAGAATCTCACGATTCTGCCGTTTTTGTATAA
+                                                                            
+
+QOXR01.1        ATTCCGGAGGCTAC---------------
+QOXS01.1        ATTCCGGAGGCTAC---------------
+QOYQ01.1        -----------------------------
+QOYK01.1        -----------------------------
+QOYB01.1        -----------------------------
+QOYO01.1        -----------------------------
+QOXA01.1        TTTTCTGTCAGGAAAAATC----------
+EC3             TTCACTGGGAATACATGT-----------
+EC5             TTCACTGGGAATACATGT-----------
+EC6             TTCACTGGGAATACATGT-----------
+QOYX01.1        TTCACCGGGAATACATGT-----------
+QOYV01.1        TTCACCGGGAATACATGT-----------
+QOYH01.1        TTCACCGGGAATACATGT-----------
+QOYP01.1        TTCACCGGGAATACATGT-----------
+QOYS01.1        TTCACCGGGAATACATGT-----------
+EC2             TGCACCGGGGACATCAGCAGGTGCTGTTT
+QOWW01.1        TGCACCGGGGACATCAGCAGGTGCTGTTT
+QOYW01.1        TGCAGTGCGGACATCAGCAGGTGCTGTTT
+MG1655          TTTTCAGAGGAGTAGTG------------
+NCM3722         TTTTCAGAGGAGTAGTG------------
+QOXD01.1        TTTTTCAGAGGAGTAGCTA----------
+                                             

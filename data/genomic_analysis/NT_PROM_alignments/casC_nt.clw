@@ -1,0 +1,37 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+QOXE01.1        CTGGGACGGAAGTCACTGTCGTTCTCAAAATCGGTGGAGCTGCATGACAAGGTCATCGGG
+QOXD01.1        -----------------------------ATCGGTGGAGCTGCATGACAAAGTCATCGGG
+QOWY01.1        -----------------------------ATCGGTGGAGCTGCATGACAAAGTCATCGGG
+                                             ********************* *********
+
+QOXE01.1        CATTATCTGAACATAAAGCACTATCAGTAAGTTGGAGTCACTACCCTGGGAACACAGGAA
+QOXD01.1        CATTATCTGAACATAAAACACTATCAATAAGTTGGAGTCATTACC----GGA---AGAGC
+QOWY01.1        CATTATCTGAACATAAAACACTATCAATAAGTTGGAGTCATTACCTGGCAGA---AGATA
+                ***************** ******** ************* ****      *   **   
+
+QOXE01.1        TTT-----------------TCATCGGGTGTTTTTTATCGTTAT--------GCCAATAT
+QOXD01.1        TTTAGCCAATAGTGGAAGAATTAACGAGCGCCGTATCTTTCAATTAATTCGGGCTGACAG
+QOWY01.1        TTT-TCCGCTGGTGCCAGGA-----GAGCGACGACCTGCTCAAT-------------CAT
+                ***                      * * *            **              * 
+
+QOXE01.1        TAACCTCGCTCAACTTCAGGAAAATTTAGGCGGTGCCTCCAGGGAGCAGGCTC-------
+QOXD01.1        AACAGCCGATATGGTCCAGTTACGTCGATTGCTTGCTCACGCCGA----ACCCGTACTTG
+QOWY01.1        CACCGCCG-------CCAGCAGCGGCCA------------ACCGAATTTATCCGTATCCG
+                 *    **        ***        *               **       *       
+
+QOXE01.1        --TGGAAATTGCAACCCATGTTGTTCATATGCTGGCAACAG-----AGGTC---------
+QOXD01.1        ACTGGCCATTAATGGCCAGGATGTTGACCTGGTGGGGAAAGCGCGAACGCCAGCAACTTC
+QOWY01.1        CTGGGC--------GCTGGAATATTACCAGGCTGGCG---------ACGCC---------
+                   **          *     * **     * ***           * * *         
+
+QOXE01.1        ------------------CCTGGAGCAAAACAGCGTACTTATGCCGCTTTTAACCCTGCG
+QOXD01.1        TGGAAGATTTTGTATTGACCACAAACAAAAATGCGTAAGGAAACCTTTCT----------
+QOWY01.1        ----------------GATAACGAACAAAATTA---ATAAAGGACTATCTC---------
+                                       * *****      *   *   *  * *          
+
+QOXE01.1        GATATGGTA
+QOXD01.1        ---------
+QOWY01.1        ---------
+                         
