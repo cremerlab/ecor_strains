@@ -4,29 +4,35 @@ MUSCLE (3.8) multiple sequence alignment
 QOYG01.1        ACAAAATCGCTTTTCCGCCCATCGACAGCCCGGTGGTGATCACCGAAGGGGAATGGCTGA
 QOYD01.1        ACAAAATCGCTTTTCCGCCCATCGACAGCCCGGTGGTGATCACCGAAGGGGAATGGCTGA
 QOYF01.1        ACAAAATCGCTTTTCCGCCCATCGACAGCCCGGTGGTGATCACCGAAGGGGAATGGCTGA
-                ************************************************************
+QOYM01.1        ----------------------------CACGGCGG------------------------
+                                            * *** **                        
 
 QOYG01.1        AAAGCCTCAACCGCTATCCGTTTGAGGTGCAAAGCCTGCCGAGTGCCTCGTTTAACCTGA
 QOYD01.1        AAAGCCTCAACCGCTATCCGTTTGAGGTGCAAAGCCTGCCGAGTGCCTCGTTTAACCTGA
 QOYF01.1        AAAGCCTCAACCGCTATCCGTTTGAGGTGCAAAGCCTGCCGAGCGCCTCGTTTAACCTGA
-                ******************************************* ****************
+QOYM01.1        ------------GC----------AGGCGCA-----------------------------
+                            **          *** ***                             
 
 QOYG01.1        TTCAGCAGGTTGGGCGACTGATTCGAAGCCACGGTTGCTGGGGCGAAGTGGTGATTTACG
 QOYD01.1        TTCAGCAGGTTGGGCGACTGATTCGAAGCCACGGTTGCTGGGGCGAAGTGGTGATTTACG
 QOYF01.1        TTCAGCAGGTTGGGCGACTGATTCGAAGCCACGGTTGCTGGGGCGAAGTGGTGATTTACG
-                ************************************************************
+QOYM01.1        -----------------------------------------GGCGAA-------------
+                                                         ******             
 
 QOYG01.1        ATAAACGCTTGCTCACCAAAAACTACGGCAAGCGGCTACTGGATGCATTACCGGTATTTC
 QOYD01.1        ATAAACGCTTGCTCACCAAAAACTACGGCAAGCGGCTACTGGATGCATTACCGGTATTTC
 QOYF01.1        ATAAACGCTTGCTCACCAAAAACTACGGCAAGCGGCTACTGGATGCATTACCGGTATTTC
-                ************************************************************
+QOYM01.1        ----------GCTCGACGAACATCA------------------------ACCGGTGTTT-
+                          ****  * ** *  *                        ****** *** 
 
 QOYG01.1        CGATAGAGCAACCGGAAGTCCCTGAAGGTATAGTTAAAAAGAAAGAAAAAACGAAATCCC
 QOYD01.1        CGATAGAGCAACCGGAAGTCCCTGAAGGTATAGTTAAAAAGAAAGAAAAAACGAAATCCC
 QOYF01.1        CGATAGAGCAACCGGAAGCCCCTGAAGGTATAGTTAAAAAGAAAGAAAAAACGAAATCCC
-                ****************** *****************************************
+QOYM01.1        ------------------------------------------------------------
+                                                                            
 
 QOYG01.1        CACGCCGTCGGCGGCGTTAATGATGTGAGTCAGGTAAGGAGTCGTAA
 QOYD01.1        CACGCCGTCGGCGGCGTTAATGATGTGAGTCAGGTAAGGAGTCGTAA
 QOYF01.1        CACGCCGTCGGCGGCGTTAATGATGTGAGTCAGGTAAGGAGTCGTAA
-                ***********************************************
+QOYM01.1        -----------------------------------------------
+                                                               

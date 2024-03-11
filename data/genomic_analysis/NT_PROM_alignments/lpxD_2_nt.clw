@@ -1,28 +1,28 @@
 MUSCLE (3.8) multiple sequence alignment
 
 
-MG1655          CTGTTCT----CC-----------------------AATGACTAGTCTAAAAACTAGTAT
 NCM3722         CTGTTCT----CC-----------------------AATGACTAGTCTAAAAACTAGTAT
-QOXW01.1        AAGTCCTTAGTCC--ATCT-----------------AAAGTGAGATTTA----CCGTATC
+MG1655          CTGTTCT----CC-----------------------AATGACTAGTCTAAAAACTAGTAT
 QOWM01.1        AAGTCCTTAGTCC--ATCT-----------------AAAGTGAGATTTA----CCGTATC
+QOXW01.1        AAGTCCTTAGTCC--ATCT-----------------AAAGTGAGATTTA----CCGTATC
 QOWZ01.1        AAGTCCTTAGTCC--ATCT-----------------AAAGTGAGATTTA----CCGTATC
 QOXU01.1        --TTTTTTAGACCTGATTTGTTTCTGAGTATCGGTAAAAGTGCGGCTTATAAGCTATTCT
 QOXV01.1        --TTTTTTAGACCTGATTTGTTTCTGAGTATCGGTAAAAGTGCGGCTTATAAGCTATTCT
                    *  *    **                       ** *       **    *      
 
-MG1655          TAAGACTATCACTTATTTAA----------GTGATATTGG--------------------
 NCM3722         TAAGACTATCACTTATTTAA----------GTGATATTGG--------------------
-QOXW01.1        TGAATATATCAAAATGCTAA-------GGCAGAATCCCCGGAAATTT-------------
+MG1655          TAAGACTATCACTTATTTAA----------GTGATATTGG--------------------
 QOWM01.1        TGAATATATCAAAATGCTAA-------GGCAGAATCCCCGGAAATTT-------------
+QOXW01.1        TGAATATATCAAAATGCTAA-------GGCAGAATCCCCGGAAATTT-------------
 QOWZ01.1        TGAATATATCAAAATGCTAA-------GGCAGAATCCCCGGAAATTT-------------
 QOXU01.1        GAAACATGGCAA---GTGAATCTGGGCGGTATAATTCCGGCAAATGTCATCTGTATTTAA
 QOXV01.1        GAAACATGGCAA---GTGAATCTGGGCGGTATAATTCCGGCAAATGTCATCTGTATTTAA
                   *   *  **       **             **    *                    
 
-MG1655          -------------
 NCM3722         -------------
-QOXW01.1        -------------
+MG1655          -------------
 QOWM01.1        -------------
+QOXW01.1        -------------
 QOWZ01.1        -------------
 QOXU01.1        AGGACGTGTGAGT
 QOXV01.1        AGGACGTGTGAGT

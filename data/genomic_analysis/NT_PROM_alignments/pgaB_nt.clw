@@ -1,42 +1,50 @@
 MUSCLE (3.8) multiple sequence alignment
 
 
-QOWS01.1        GCTTTCACTGATTTTTCCGACAGTAACCAGCGTCATGAAGTCTCACTTGAGGGTCAGGAA
-EC1             GCTTTCACTGATTTTTCCGACAGTAACCAGCGTCATGAAGTCTCACTTGAGGGTCAGGAA
-QOXD01.1        ------------------------AATCGG-----TGGAGCTGCA--------TGACAAA
-                                        ** * *     ** **   **        * *  **
+QOXE01.1        AATTTGGCGATGAGTTGGTCGATCGAGAATATTTTGCCACGTGGCAACAAGTGCGAGAA-
+QOWS01.1        ------GCTTTCACTGATTTTTCCGACAGTAACCAGCGTCATGAAGTCTCACTTGAGGGT
+EC1             ------GCTTTCACTGATTTTTCCGACAGTAACCAGCGTCATGAAGTCTCACTTGAGGGT
+QOXD01.1        ----------------AATCGGTGGA---------GCTGCATGAC----------AAAGT
+                                  *     **         **  * **            *    
 
-QOWS01.1        CGCATCTGGTCTTCACCATATTTGATTGTCGATTTCCTACCCAGTCTGTATTACGAACAA
-EC1             CGCATCTGGTCTTCACCATATTTGATTGTCGATTTCCTACCCAGTCTGTATTACGAACAA
-QOXD01.1        GTCATCGGGC--------------ATTATC-----------------------TGAACA-
-                  **** **               *** **                        ***** 
+QOXE01.1        ------------------------------GTTGCGCGTTCCCGGCTCGT---------T
+QOWS01.1        CAGGAACGCATCTGGTCTTCACCATATTTGATTGTCGATTTCCTACCCAGTCTGTATTAC
+EC1             CAGGAACGCATCTGGTCTTCACCATATTTGATTGTCGATTTCCTACCCAGTCTGTATTAC
+QOXD01.1        C-----------------------------ATCGGGCATTATC----------------T
+                                               * *    **  *                 
 
-QOWS01.1        AATACAGAACACGATACCCCATACTACAACCCTATAAAAACGTTCGATATTGTTCCGGCA
-EC1             AATACAGAACACGATACCCCATACTACAACCCTATAAAAACGTTCGATATTGTTCCGGCA
-QOXD01.1        ------------------------TAAAACACTATCAATAAGTTGGA-------------
-                                        ** *** **** ** * *** **             
+QOXE01.1        GAGCT------------------------------CGCTTCTCATACATGGAA-------
+QOWS01.1        GAACAAAATACAGAACACGATACCCCATACTACAACCCTATAAAAACGTTCGATATTGTT
+EC1             GAACAAAATACAGAACACGATACCCCATACTACAACCCTATAAAAACGTTCGATATTGTT
+QOXD01.1        GAACA-------------------------TAAAACACTATCAATAAGTTGGA-------
+                ** *                               * **    * *  *   *       
 
-QOWS01.1        TTTGAGGCAAGCCATTTGTTATGGCGAAGCTATGAAAATAGCTGGGAGCAAATATTCAGC
-EC1             TTTGAGGCAAGCCATTTGTTATGGCGAAGCTATGAAAATAGCTGGGAGCAAATATTCAGC
+QOXE01.1        ------------------------TTCTCACTACGGTATTCAGGCTAATGCCACCGGCAG
+QOWS01.1        CCGGCATTTGAGGCAAGCCATTTGTTATGGCGAAGCTATGAAAATAGCTGGGAGCAAATA
+EC1             CCGGCATTTGAGGCAAGCCATTTGTTATGGCGAAGCTATGAAAATAGCTGGGAGCAAATA
 QOXD01.1        ------------------------------------------------------------
                                                                             
 
-QOWS01.1        GCAGGTGTTGGTGCCTCCTGGCAAAAACATTATGGCACGGATGTCGTCACCCAACTCGGC
-EC1             GCAGGTGTTGGTGCCTCCTGGCAAAAACATTATGGCACGGATGTCGTCACCCAACTCGGC
-QOXD01.1        ------------------------------------------GTCATTACCCAAT-----
-                                                          *** * ******      
+QOXE01.1        CTTATTGCCTGTATATGTAAATCGTG-----------------CATATTTTACTGACCA-
+QOWS01.1        TTCAGCGCAGGTGTTGGTGCCTCCTGGCAAAAACATTATGGCACGGATGTCGTCACCCAA
+EC1             TTCAGCGCAGGTGTTGGTGCCTCCTGGCAAAAACATTATGGCACGGATGTCGTCACCCAA
+QOXD01.1        ------------------------------------------------GTCATTACCCAA
+                                                                 *      *** 
 
-QOWS01.1        TACGGGCAACGCATTAGCTGGAATGACGTGATTGA--TGCTGGCGCAACGCTACGCTGGG
-EC1             TACGGGCAACGCATTAGCTGGAATGACGTGATTGA--TGCTGGCGCAACGCTACGCTGGG
-QOXD01.1        ------------------------------ATTGATGTGCTAATTCAGCG----------
-                                              *****  ****    ** **          
+QOXE01.1        ----------------------------------CGCACGGTATGAAACCGCAGCAGAAT
+QOWS01.1        CTCGGCTACGGGCAACGCATTAGCTGGAATGACGTGATTGA--TGCTGGCGCAACGCTAC
+EC1             CTCGGCTACGGGCAACGCATTAGCTGGAATGACGTGATTGA--TGCTGGCGCAACGCTAC
+QOXD01.1        T-----------------------------------ATTGATGTGCTAATTCAGCGG---
+                                                       *   **      ** *     
 
-QOWS01.1        AAAAACGACCTTATGACGGTGACAGAGAACACAACTTATACGTTGAATTCGATATGACAT
-EC1             AAAAACGACCTTATGACGGTGACAGAGAACACAACTTATACGTTGAATTCGATATGACAT
-QOXD01.1        -----------------GGTGAAAG-----------------------------------
-                                 ***** **                                   
+QOXE01.1        ACCGGGAAAGAATTCGTCTGGATGCTGTAAAA----------------------------
+QOWS01.1        GCTGGGAAAAACGACCTTATGACGGTGACAGAGAACACAACTTATACGTTGAATTCGATA
+EC1             GCTGGGAAAAACGACCTTATGACGGTGACAGAGAACACAACTTATACGTTGAATTCGATA
+QOXD01.1        ---GTGAAAGAT------------------------------------------------
+                   * **** *                                                 
 
-QOWS01.1        TCAGATTTTAAGGATAAAT
-EC1             TCAGATTTTAAGGATAAAT
-QOXD01.1        -----------------AT
-                                 **
+QOXE01.1        -------------------------
+QOWS01.1        TGACATTCAGATTTTAAGGATAAAT
+EC1             TGACATTCAGATTTTAAGGATAAAT
+QOXD01.1        -------------------------
+                                         

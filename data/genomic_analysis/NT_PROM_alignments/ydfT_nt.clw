@@ -1,22 +1,26 @@
 MUSCLE (3.8) multiple sequence alignment
 
 
+QOYW01.1        ------------------------------------------CGGTGCGATCGTGTGGCG
 QOXY01.1        CACTCTCGTCTGGGGAATATCTCCCCGGCAGCCTTCAGGGAAAAATATCATCAGATGGCT
-QOXZ01.1        --------------------------------CTTCAGGGAAAAATATCATCAGATGGCT
 QOXX01.1        CACTCTCGTCTGGGGAATATCTCCCCGGCAGCCTTCAGGGAAAAATATCATCAGATGGCT
-                                                ****************************
+QOXZ01.1        --------------------------------CTTCAGGGAAAAATATCATCAGATGGCT
+                                                             *   ***   **** 
 
+QOYW01.1        GCGTTGAGAAA---------------------ACTTCCGGCA------------GAAATA
 QOXY01.1        GCTTAAAAAAAGAACAAATGGTTGTGTCCGCTATTGCCAGTACACCTCATTACCAAAATA
-QOXZ01.1        GCTTAAAAAAAGAACAAATGGTTGTGTCCGCTATTGCCAGTACACCTCATTACCAAAATA
 QOXX01.1        GCTTAAAAAAAGAACAAATGGTTGTGTCCGCTATTGCCAGTACACCTCATTACCAAAATA
-                ************************************************************
+QOXZ01.1        GCTTAAAAAAAGAACAAATGGTTGTGTCCGCTATTGCCAGTACACCTCATTACCAAAATA
+                ** *  * ***                     * * ** * *             *****
 
+QOYW01.1        -----------------------------------------------AAACCGGTAGTG-
 QOXY01.1        TTACTCCCCAAAATCTCCAAAATTGAGCGATGACGCTCCAGCGACAGGCACCGGTTGTTT
-QOXZ01.1        TTACTCCCCAAAATCTCCAAAATTGAGCGATGACGCTCCAGCGACAGGCACCGGTTGTTT
 QOXX01.1        TTACTCCCCAAAATCTCCAAAATTGAGCGATGACGCTCCAGCGACAGGCACCGGTTGTTT
-                ************************************************************
+QOXZ01.1        TTACTCCCCAAAATCTCCAAAATTGAGCGATGACGCTCCAGCGACAGGCACCGGTTGTTT
+                                                                 ****** **  
 
+QOYW01.1        ----------------
 QOXY01.1        AACAATTACGGATGTA
-QOXZ01.1        AACAATTACGGATGTA
 QOXX01.1        AACAATTACGGATGTA
-                ****************
+QOXZ01.1        AACAATTACGGATGTA
+                                

@@ -2,61 +2,61 @@ MUSCLE (3.8) multiple sequence alignment
 
 
 QOXZ01.1        ---------AGTAAACCCGTAAGTTGTCTTGCGCATTATCAACAAAGTTCAGAAGCAGAA
-QOYA01.1        ---------AGTAAACCCGTAAGTTGTCTTGCGCATTATCAACAAAGTTCAGAAGCAGAA
-QOXY01.1        ---------AGTAAACCCGTAAGTTGTCTTGCGCATTATCAACAAAGTTCAGAAGCAGAA
-QOXX01.1        ---------AGTAAACCCGTAAGTTGTCTTGCGCATTATCAACAAAGTTCAGAAGCAGAA
-QOZB01.1        ------------------------------------------------------------
 QOXL01.1        ------------------------------------------------------------
+QOZB01.1        ------------------------------------------------------------
 QOWS01.1        CTCGAAGAAAGTAAACCCGTAAGTTGTCTTGCGCATTATCAACAAAGTTCAGAAGCAGAA
 EC1             CTCGAAGAAAGTAAACCCGTAAGTTGTCTTGCGCATTATCAACAAAGTTCAGAAGCAGAA
+QOXY01.1        ---------AGTAAACCCGTAAGTTGTCTTGCGCATTATCAACAAAGTTCAGAAGCAGAA
+QOYA01.1        ---------AGTAAACCCGTAAGTTGTCTTGCGCATTATCAACAAAGTTCAGAAGCAGAA
+QOXX01.1        ---------AGTAAACCCGTAAGTTGTCTTGCGCATTATCAACAAAGTTCAGAAGCAGAA
                                                                             
 
 QOXZ01.1        AAAATAGCGCAATCTATTATTCTGAATGGAATTCGGTGTCAGATTCAGTAACTACAAGGG
-QOYA01.1        AAAATAGCGCAATCTATTATTCTGAATGGAATTCGGTGTCAGATTCAGTAACTACAAGGG
-QOXY01.1        AAAATAGCGCAATCTATTATTCTGAATGGAATTCGGTGTCAGATTCAGTAACTACAAGGG
-QOXX01.1        AAAATAGCGCAATCTATTATTCTGAATGGAATTCGGTGTCAGATTCAGTAACTACAAGGG
-QOZB01.1        ---------------------------------------------------CTACAAGGG
 QOXL01.1        ---------------------------------------------------CTACAAGGG
+QOZB01.1        ---------------------------------------------------CTACAAGGG
 QOWS01.1        AAAATAGCGCAATCTATTATTCTGAATGGAATTCGGTGTCAGATTCAGTAACTACAAGGG
 EC1             AAAATAGCGCAATCTATTATTCTGAATGGAATTCGGTGTCAGATTCAGTAACTACAAGGG
+QOXY01.1        AAAATAGCGCAATCTATTATTCTGAATGGAATTCGGTGTCAGATTCAGTAACTACAAGGG
+QOYA01.1        AAAATAGCGCAATCTATTATTCTGAATGGAATTCGGTGTCAGATTCAGTAACTACAAGGG
+QOXX01.1        AAAATAGCGCAATCTATTATTCTGAATGGAATTCGGTGTCAGATTCAGTAACTACAAGGG
                                                                    *********
 
 QOXZ01.1        ACGTCAAATGATAAAAATAACGCCACATAAAATATGTGATACTGATGGGAATATTATTAT
-QOYA01.1        ACGTCAA-----------------------------------------------------
-QOXY01.1        ACGTCAA-----------------------------------------------------
-QOXX01.1        ACGTCAA-----------------------------------------------------
-QOZB01.1        ACGTCAAATGATAAAAATAACGCCACATAAAATA-GCGATACTGATGGGAATATTATTAT
 QOXL01.1        ACGTCAAATGATAAAAATAACGCCACATAAAATA-GCGATACTGATGGGAATATTATTAT
+QOZB01.1        ACGTCAAATGATAAAAATAACGCCACATAAAATA-GCGATACTGATGGGAATATTATTAT
 QOWS01.1        ACGTCAAATGATAAAAATAACGCCACATAAAATA-GCGATACTGATGGGAATATTATTAT
 EC1             ACGTCAAATGATAAAAATAACGCCACATAAAATA-GCGATACTGATGGGAATATTATTAT
+QOXY01.1        ACGTCAA-----------------------------------------------------
+QOYA01.1        ACGTCAA-----------------------------------------------------
+QOXX01.1        ACGTCAA-----------------------------------------------------
                 *******                                                     
 
 QOXZ01.1        CACCCTCAGTATTTGCAACGGATATTAATGTAGAGTTTACAGCCACTGTCAAAGCGACAA
-QOYA01.1        ------------------------------------------------------------
-QOXY01.1        ------------------------------------------------------------
-QOXX01.1        ------------------------------------------------------------
-QOZB01.1        CACCATCAGTATTTGCAACGGATATTAATGTAGAGTTTACAGCCACTGTCAAAGCGACAA
 QOXL01.1        CACCATCAGTATTTGCAACGGATATTAATGTAGAGTTTACAGCCACTGTCAAAGCGACAA
+QOZB01.1        CACCATCAGTATTTGCAACGGATATTAATGTAGAGTTTACAGCCACTGTCAAAGCGACAA
 QOWS01.1        CACCATCAGTATTTGCAACGGATATTAATGTAGAGTTTACAGCCACTGTCAAAGCGACAA
 EC1             CACCATCAGTATTTGCAACGGATATTAATGTAGAGTTTACAGCCACTGTCAAAGCGACAA
+QOXY01.1        ------------------------------------------------------------
+QOYA01.1        ------------------------------------------------------------
+QOXX01.1        ------------------------------------------------------------
                                                                             
 
 QOXZ01.1        CCTGTAACATCACACTTACTGGTAATAACGTCACGAATGATGGCAATAATAACTACACAT
-QOYA01.1        ------------------------------------------------------------
-QOXY01.1        ------------------------------------------------------------
-QOXX01.1        ------------------------------------------------------------
-QOZB01.1        CCTGTAACATCACACTTACTGGTAATAACGTCACGAATGATGGCAATAATAACTACACAT
 QOXL01.1        CCTGTAACATCACACTTACTGGTAATAACGTCACGAATGATGGCAATAATAACTACACAT
+QOZB01.1        CCTGTAACATCACACTTACTGGTAATAACGTCACGAATGATGGCAATAATAACTACACAT
 QOWS01.1        CCTGTAACATCACACTTACTGGTAATAACGTCACGAATGATGGCAATAATAACTACACAT
 EC1             CCTGTAACATCACACTTACTGGTAATAACGTCACGAATGATGGCAATAATAACTACACAT
+QOXY01.1        ------------------------------------------------------------
+QOYA01.1        ------------------------------------------------------------
+QOXX01.1        ------------------------------------------------------------
                                                                             
 
 QOXZ01.1        TGAGAATCCCTAAG
-QOYA01.1        --------------
-QOXY01.1        --------------
-QOXX01.1        --------------
-QOZB01.1        TGAGAATCCCTAAG
 QOXL01.1        TGAGAATCCCTAAG
+QOZB01.1        TGAGAATCCCTAAG
 QOWS01.1        TGAGAATCCCTAAG
 EC1             TGAGAATCCCTAAG
+QOXY01.1        --------------
+QOYA01.1        --------------
+QOXX01.1        --------------
                               

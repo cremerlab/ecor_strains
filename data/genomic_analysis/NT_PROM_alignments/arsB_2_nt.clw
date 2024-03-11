@@ -18,7 +18,7 @@ NCM3722         ------------------------------------------------------------
 
 MG1655          GCGTTGTTTGCCAATGACGGCGCCGCGCTGATCCTGACGCCGATTGTGATTGCGATGCTG
 QOXP01.1        ------------------------------------------ATTGTCATCACG------
-NCM3722         -----------------------------------GCCTGCCAGTGCGATCAAGGATCTG
+NCM3722         -----GCCTGCC------------------------------AGTGCGATCAAGGATCTG
                                                           * **  **   *      
 
 MG1655          ATCGCACTGGGTTCAGCCAGGGC--ACGACACTGGCCTTTGTC----------

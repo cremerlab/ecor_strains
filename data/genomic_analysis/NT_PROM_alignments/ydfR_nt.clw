@@ -1,0 +1,17 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+EC5             GTGGGAACGGGCTACTGGTTCCTGCAGTTGCTGGACAGGGTTTCCCCGTCTCAGTGGGCG
+EC6             GTGGGAACGGGCTACTGGTTCCTGCAGTTGCTGGACAGGGTTTCCCCGTCTCAGTGGGCG
+QOXK01.1        ------------------------TAG-TGTTAGACA-TATATCCAAGCCT---------
+                                         ** ** * ****   * ***  * **         
+
+EC5             GCAATAGGCGTGCTGGGGAGTCTGCTGTTTGGGCTGCTGACATATCTGACTAACCTGTAT
+EC6             GCAATAGGCGTGCTGGGGAGTCTGCTGTTTGGGCTGCTGACATATCTGACTAACCTGTAT
+QOXK01.1        -------------------ATCTCTTATTTTAA-----GATACATCT-ACTGTCTGGTAT
+                                    ***  * ***        ** * **** ***  *  ****
+
+EC5             TTCAAAATCAGAGAGGACCGTCGTAAGGCGGCACGGGGAGAGTAATTCA
+EC6             TTCAAAATCAGAGAGGACCGTCGTAAGGCGGCACGGGGAGAGTAATTCA
+QOXK01.1        TTC--------AGGGGGCCAGCTCA---------------ACTGGTT--
+                ***        ** ** **  *  *               * *  **  
